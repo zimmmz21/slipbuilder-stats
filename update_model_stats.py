@@ -24,10 +24,40 @@ def latest_slate():
     return dict(slate_date=os.path.basename(f)[:10], lines_scanned=len(lines),
                 slate_games=len({r.get("game") for r in rows}), slate_markets=len({r.get("market") for r in rows}))
 
+PARQUET = "/workspace/props-all/graded_props_2023_2025.parquet"
+WHY26 = "/workspace/why-tags/why_tags_2026.parquet"
+MKT = {"tackles and assists": "tackles+assists", "tackles + assists": "tackles+assists", "solo tackles": "tackles",
+       "rush attempts": "rushing attempts"}
+def _p(n): return re.sub(r"\b(jr|sr|ii|iii|iv|v)\b", "", re.sub(r"[^a-z ]", "", str(n).lower().replace("-", " "))).split().__str__()
+def _m(m): m = str(m).strip().lower(); return MKT.get(m, m)
+def _k(week, player, market, line): return (int(week), _p(player), _m(market), round(float(line), 1))
+
+def graded_2026():
+    """Unique graded 2026 props keyed (NFL week, player, market, line) - one key per prop regardless of side/source.
+    Sources: v3 2026 DK board lines (graded y), why_tags_2026 (OVER/UNDER), ledger legs graded HIT/MISS (all slips)."""
+    import pandas as pd
+    from update_record import nfl_week, LEDGER
+    K = {}; src = {}
+    L = pd.read_pickle(os.path.join(V3, "results", "lines_all.pkl")); L = L[(L.season == 2026) & L.y.notna()]
+    for r in L.itertuples(): K.setdefault(_k(r.week, r.player, r.market, r.line), "dk_board")
+    W = pd.read_parquet(WHY26); W = W[W.result.isin(["OVER", "UNDER", "PUSH"]) & W.line.notna() & W.week.notna()]
+    for r in W.itertuples(): K.setdefault(_k(r.week, r.player_name, r.market, r.line), "why_tags_2026")
+    for s in json.load(open(LEDGER))["slips"]:
+        if not s["date"].startswith("2026") or s["date"] < "2026-09-08": continue  # preseason legs are not REG props
+        for p in s.get("picks", []):
+            if p.get("grade") in ("HIT", "MISS") and p.get("line") is not None:
+                K.setdefault(_k(nfl_week(s), p["player"], p.get("stat") or p.get("market"), p["line"]), "ledger")
+    for v in K.values(): src[v] = src.get(v, 0) + 1
+    return len(K), src
+
 def compute():
+    import pandas as pd
+    hist = len(pd.read_parquet(PARQUET, columns=["season"]))
+    n26, src26 = graded_2026()
     n, cats, tt = training_set()
     s = latest_slate()
-    return dict(graded_props=n, prop_categories=cats, trained_through=f"{tt//100} W{tt%100}", **s,
+    return dict(graded_props=hist + n26, graded_props_2023_2025=hist, graded_props_2026=n26,
+                graded_2026_by_first_source=src26, trained_lines=n, prop_categories=cats, trained_through=f"{tt//100} W{tt%100}", **s,
                 # static: walk-forward confident Unders, REPORT_REFINE.md "Confident picks (P>=0.58)"
                 calib_under_n=2492, calib_under_stated_pct=64.7, calib_under_hit_pct=65.4)
 
