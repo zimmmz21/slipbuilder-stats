@@ -14,3 +14,12 @@ https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/record.json
 - **cashed_legs:** number of legs that hit this season (= season_w).
 - **last_week_w / last_week_l:** graded legs from the last completed NFL week. NFL weeks run Tuesday to Monday (Week 1 starts Tue 2026-09-08). Uses the ledger's `week` field when present, otherwise the slip date.
 - **updated_at:** ISO 8601 timestamp in America/Chicago (CT offset) of the last change.
+
+## model.json (SlipScore section) — `update_model_stats.py`
+https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/model.json
+- **graded_props:** exact number of graded lines SlipScore v3 is fit on: rows of `slipscore_v3/results/lines_all.pkl` with a graded outcome in a modeled category (same filter as `fit_final.py` and the nightly retrain). Built from the 2023-25 props parquet (main over/under lines only, not all 247,510 raw rows) plus 2026 graded board lines, so it grows after each retrain.
+- **prop_categories:** distinct prop categories in that training set.
+- **trained_through:** latest season/week in the training set.
+- **lines_scanned / slate_games / slate_markets:** unique (player, market, line) props in the latest board scan (`ledger/board-scan/<date>.jsonl`), plus the games and markets that scan covered.
+- **calib_under_*:** walk-forward calibration of confident Under picks (P ≥ 0.58): stated vs actual hit rate (REPORT_REFINE.md). Static until that analysis is re-run.
+- **updated_at:** ISO 8601 timestamp in CT of the last change.
