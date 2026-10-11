@@ -17,7 +17,8 @@ https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/record.json
 
 ## model.json (SlipScore section) — `update_model_stats.py`
 https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/model.json
-- **graded_props:** exact number of graded lines SlipScore v3 is fit on: rows of `slipscore_v3/results/lines_all.pkl` with a graded outcome in a modeled category (same filter as `fit_final.py` and the nightly retrain). Built from the 2023-25 props parquet (main over/under lines only, not all 247,510 raw rows) plus 2026 graded board lines, so it grows after each retrain.
+- **graded_props:** all graded props the system holds: the 247,510 rows of `props-all/graded_props_2023_2025.parquet` (`graded_props_2023_2025`) plus unique graded 2026 props (`graded_props_2026`). A 2026 prop is one (NFL week, player, market, line), counted once no matter which side or source it came from. Sources are checked in this order: the v3 2026 DK board lines with a graded outcome, then `why-tags/why_tags_2026.parquet` rows graded OVER/UNDER, then ledger legs graded HIT/MISS (regular season). `graded_2026_by_first_source` shows how many unique props each source added. Different lines for the same player and market count as separate props, the same way the 2023-25 file does. The total grows as games are graded.
+- **trained_lines:** exact number of graded lines SlipScore v3 is fit on (`lines_all.pkl`, graded rows in modeled categories, same filter as `fit_final.py` and the nightly retrain).
 - **prop_categories:** distinct prop categories in that training set.
 - **trained_through:** latest season/week in the training set.
 - **lines_scanned / slate_games / slate_markets:** unique (player, market, line) props in the latest board scan (`ledger/board-scan/<date>.jsonl`), plus the games and markets that scan covered.
