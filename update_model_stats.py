@@ -24,6 +24,7 @@ def latest_slate():
     return dict(slate_date=os.path.basename(f)[:10], lines_scanned=len(lines),
                 slate_games=len({r.get("game") for r in rows}), slate_markets=len({r.get("market") for r in rows}))
 
+FLOOR = 247510
 PARQUET = "/workspace/props-all/graded_props_2023_2025.parquet"
 WHY26 = "/workspace/why-tags/why_tags_2026.parquet"
 MKT = {"tackles and assists": "tackles+assists", "tackles + assists": "tackles+assists", "solo tackles": "tackles",
@@ -65,6 +66,14 @@ def main():
     tok = token(); owner = api("GET", "/user", tok)["login"]
     stats = compute(); path = f"/repos/{owner}/{REPO}/contents/model.json"
     cur = api("GET", path + "?ref=main", tok)
+    prev = json.loads(base64.b64decode(cur["content"])) if cur else {}
+    # monotonic: never below 247,510 or the previously committed value
+    prev_total = prev.get("graded_props", 0) if prev.get("graded_props_2023_2025") else 0  # ignore old trained-lines value
+    stats["graded_props"] = max(FLOOR, prev_total, stats["graded_props"])
+    today = datetime.datetime.now(CT).date().isoformat()
+    if prev.get("day_start_date") == today: base = prev["day_start_graded_props"]
+    else: base = max(FLOOR, prev_total)          # last committed total before today
+    stats.update(day_start_date=today, day_start_graded_props=base, added_today=stats["graded_props"] - base)
     if cur and {k: v for k, v in json.loads(base64.b64decode(cur["content"])).items() if k != "updated_at"} == stats:
         print("model.json unchanged:", json.dumps(stats)); return
     rec = dict(stats, updated_at=datetime.datetime.now(CT).isoformat(timespec="seconds"))
