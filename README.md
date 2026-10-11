@@ -24,3 +24,5 @@ https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/model.json
 - **lines_scanned / slate_games / slate_markets:** unique (player, market, line) props in the latest board scan (`ledger/board-scan/<date>.jsonl`), plus the games and markets that scan covered.
 - **calib_under_*:** walk-forward calibration of confident Under picks (P ≥ 0.58): stated vs actual hit rate (REPORT_REFINE.md). Static until that analysis is re-run.
 - **updated_at:** ISO 8601 timestamp in CT of the last change.
+- **graded_props is monotonic:** it starts at 247,510 and never goes down. Each run commits max(previous committed value, freshly computed value).
+- **added_today:** graded props added since the start of today (CT); resets to 0 each day. `day_start_date` and `day_start_graded_props` store that day's starting total.
