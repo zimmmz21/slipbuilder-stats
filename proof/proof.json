@@ -1,0 +1,1297 @@
+{
+  "updated_at": "2026-10-17T18:40:05-05:00",
+  "page_size": 12,
+  "counts": {
+    "cards": 13,
+    "legs_pages": 7
+  },
+  "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-7",
+      "page": 7,
+      "date": "2026-10-15",
+      "date_from": "2026-10-11",
+      "title": "Cashed Legs · Page 7",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-7.png",
+      "summary": "12 cashed legs · Oct 11 – Oct 15, 2026",
+      "legs": [
+        {
+          "date": "2026-10-15",
+          "player": "Courtland Sutton",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-15",
+          "player": "J.K. Dobbins",
+          "stat": "Rushing Yards",
+          "line": 48.5,
+          "side": "Less",
+          "final": 41
+        },
+        {
+          "date": "2026-10-15",
+          "player": "Byron Murphy",
+          "stat": "Tackles",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-12",
+          "player": "Josh Allen",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 1
+        },
+        {
+          "date": "2026-10-12",
+          "player": "Dalton Kincaid",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-12",
+          "player": "Colby Parkinson",
+          "stat": "Receiving Yards",
+          "line": 16.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Christian McCaffrey",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 1
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Deebo Samuel Sr.",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Cooper Kupp",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Jared Goff",
+          "stat": "Interceptions Thrown",
+          "line": 0.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Jacoby Brissett",
+          "stat": "Passing Completions",
+          "line": 24.5,
+          "side": "More",
+          "final": 29
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Derrick Henry",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 1
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-6",
+      "page": 6,
+      "date": "2026-10-11",
+      "date_from": "2026-10-11",
+      "title": "Cashed Legs · Page 6",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-6.png",
+      "summary": "12 cashed legs · Oct 11, 2026",
+      "legs": [
+        {
+          "date": "2026-10-11",
+          "player": "Roman Wilson",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Darnell Washington",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Malachi Fields",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Colston Loveland",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Daniel Jones",
+          "stat": "Passing Attempts",
+          "line": 31.5,
+          "side": "More",
+          "final": 44
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Braelon Allen",
+          "stat": "Longest Rush",
+          "line": 14.5,
+          "side": "More",
+          "final": 22
+        },
+        {
+          "date": "2026-10-11",
+          "player": "C.J. Stroud",
+          "stat": "Interceptions Thrown",
+          "line": 0.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-11",
+          "player": "DK Metcalf",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Rome Odunze",
+          "stat": "Longest Reception",
+          "line": 19.5,
+          "side": "More",
+          "final": 20
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Keaton Mitchell",
+          "stat": "Rushing Yards",
+          "line": 31.5,
+          "side": "Less",
+          "final": 11
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Courtland Sutton",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Justin Herbert",
+          "stat": "Passing TDs",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-5",
+      "page": 5,
+      "date": "2026-10-11",
+      "date_from": "2026-10-11",
+      "title": "Cashed Legs · Page 5",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-5.png",
+      "summary": "12 cashed legs · Oct 11, 2026",
+      "legs": [
+        {
+          "date": "2026-10-11",
+          "player": "Jake Elliott",
+          "stat": "FG Made",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Bhayshul Tuten",
+          "stat": "Rushing Attempts",
+          "line": 14.5,
+          "side": "More",
+          "final": 22
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Andrew Mukuba",
+          "stat": "Tackles + Assists",
+          "line": 5.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Gunnar Helm",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Alvin Kamara",
+          "stat": "Rushing Yards",
+          "line": 32.5,
+          "side": "Less",
+          "final": 12
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Skyy Moore",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Geno Smith",
+          "stat": "Passing TDs",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Drew Stevens",
+          "stat": "Extra Points Made",
+          "line": 2.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Tony Pollard",
+          "stat": "Rushing Attempts",
+          "line": 14.5,
+          "side": "Less",
+          "final": 14
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Denzel Boston",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Cody White",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-11",
+          "player": "Justin Jefferson",
+          "stat": "Receptions",
+          "line": 6.5,
+          "side": "Less",
+          "final": 6
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2026-10-11-sunday-card-8",
+      "date": "2026-10-11",
+      "title": "Sunday Card 8 · Oct 11, 2026",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-10-11-sunday-card-8.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Tony Pollard Rushing Attempts 14.5 Less (final 14) · Jared Goff Interceptions Thrown 0.5 Less (final 0) · Denzel Boston Receptions 3.5 Less (final 3) · Jacoby Brissett Passing Completions 24.5 More (final 29)",
+      "legs": [
+        {
+          "player": "Tony Pollard",
+          "stat": "Rushing Attempts",
+          "line": 14.5,
+          "side": "Less",
+          "final": 14
+        },
+        {
+          "player": "Jared Goff",
+          "stat": "Interceptions Thrown",
+          "line": 0.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "player": "Denzel Boston",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "player": "Jacoby Brissett",
+          "stat": "Passing Completions",
+          "line": 24.5,
+          "side": "More",
+          "final": 29
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2026-10-11-bonus-slip-1",
+      "date": "2026-10-11",
+      "title": "Bonus Slip 1 · Oct 11, 2026",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-10-11-bonus-slip-1.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Malachi Fields Receptions 2.5 Less (final 2) · Colston Loveland Receptions 4.5 Less (final 2) · Daniel Jones Passing Attempts 31.5 More (final 44) · Braelon Allen Longest Rush 14.5 More (final 22)",
+      "legs": [
+        {
+          "player": "Malachi Fields",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "player": "Colston Loveland",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "player": "Daniel Jones",
+          "stat": "Passing Attempts",
+          "line": 31.5,
+          "side": "More",
+          "final": 44
+        },
+        {
+          "player": "Braelon Allen",
+          "stat": "Longest Rush",
+          "line": 14.5,
+          "side": "More",
+          "final": 22
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-1",
+      "page": 1,
+      "date": "2026-10-08",
+      "date_from": "2026-10-04",
+      "title": "Cashed Legs · Page 1",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-1.png",
+      "summary": "12 cashed legs · Oct 4 – Oct 8, 2026",
+      "legs": [
+        {
+          "date": "2026-10-08",
+          "player": "George Pickens",
+          "stat": "Receiving Yards",
+          "line": 62.5,
+          "side": "More",
+          "final": 130
+        },
+        {
+          "date": "2026-10-08",
+          "player": "Dak Prescott",
+          "stat": "Passing Attempts",
+          "line": 33.5,
+          "side": "More",
+          "final": 42
+        },
+        {
+          "date": "2026-10-08",
+          "player": "Chris Godwin Jr.",
+          "stat": "Receiving Yards",
+          "line": 29.5,
+          "side": "More",
+          "final": 37
+        },
+        {
+          "date": "2026-10-05",
+          "player": "Bijan Robinson",
+          "stat": "Rush and Rec Yards",
+          "line": 128.5,
+          "side": "More",
+          "final": 147
+        },
+        {
+          "date": "2026-10-05",
+          "player": "Tyler Shough",
+          "stat": "Passing Completions",
+          "line": 23.5,
+          "side": "More",
+          "final": 30
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Puka Nacua",
+          "stat": "Receiving Yards",
+          "line": 73.5,
+          "side": "More",
+          "final": 125
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Jameson Williams",
+          "stat": "Receiving Yards",
+          "line": 50.5,
+          "side": "More",
+          "final": 102
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Sam LaPorta",
+          "stat": "Receiving Yards",
+          "line": 46.5,
+          "side": "More",
+          "final": 84
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Chris Olave",
+          "stat": "Receiving Yards",
+          "line": 84.5,
+          "side": "More",
+          "final": 116
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Tyler Shough",
+          "stat": "Passing Attempts",
+          "line": 34.5,
+          "side": "More",
+          "final": 48
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Tetairoa McMillan",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "More",
+          "final": 14
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Kyren Williams",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "More",
+          "final": 10
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-2",
+      "page": 2,
+      "date": "2026-10-04",
+      "date_from": "2026-09-26",
+      "title": "Cashed Legs · Page 2",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-2.png",
+      "summary": "12 cashed legs · Sep 26 – Oct 4, 2026",
+      "legs": [
+        {
+          "date": "2026-10-04",
+          "player": "Darren Waller",
+          "stat": "Receiving Yards",
+          "line": 28.5,
+          "side": "More",
+          "final": 36
+        },
+        {
+          "date": "2026-10-04",
+          "player": "Bryce Young",
+          "stat": "Passing Attempts",
+          "line": 35.5,
+          "side": "More",
+          "final": 41
+        },
+        {
+          "date": "2026-10-03",
+          "player": "Tetairoa McMillan",
+          "stat": "Receiving Yards",
+          "line": 70.5,
+          "side": "More",
+          "final": 192
+        },
+        {
+          "date": "2026-09-27",
+          "player": "James Cook III",
+          "stat": "Rushing Yards",
+          "line": 79.5,
+          "side": "More",
+          "final": 154
+        },
+        {
+          "date": "2026-09-27",
+          "player": "Jalen Hurts",
+          "stat": "Passing Yards",
+          "line": 216.5,
+          "side": "Less",
+          "final": 153
+        },
+        {
+          "date": "2026-09-27",
+          "player": "Javonte Williams",
+          "stat": "Rushing Yards",
+          "line": 54.5,
+          "side": "More",
+          "final": 98
+        },
+        {
+          "date": "2026-09-27",
+          "player": "D'Andre Swift",
+          "stat": "Rushing Yards",
+          "line": 60.5,
+          "side": "More",
+          "final": 84
+        },
+        {
+          "date": "2026-09-27",
+          "player": "Jahmyr Gibbs",
+          "stat": "Rushing Yards",
+          "line": 89.5,
+          "side": "More",
+          "final": 99
+        },
+        {
+          "date": "2026-09-27",
+          "player": "Courtland Sutton",
+          "stat": "Receiving Yards",
+          "line": 36.5,
+          "side": "More",
+          "final": 46
+        },
+        {
+          "date": "2026-09-27",
+          "player": "D'Andre Swift",
+          "stat": "Rushing Attempts",
+          "line": 14.5,
+          "side": "More",
+          "final": 20
+        },
+        {
+          "date": "2026-09-26",
+          "player": "Davante Adams",
+          "stat": "Receiving Yards",
+          "line": 71.5,
+          "side": "More",
+          "final": 137
+        },
+        {
+          "date": "2026-09-26",
+          "player": "Kyren Williams",
+          "stat": "Rushing Yards",
+          "line": 53.5,
+          "side": "More",
+          "final": 88
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-3",
+      "page": 3,
+      "date": "2026-09-26",
+      "date_from": "2026-09-20",
+      "title": "Cashed Legs · Page 3",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-3.png",
+      "summary": "12 cashed legs · Sep 20 – Sep 26, 2026",
+      "legs": [
+        {
+          "date": "2026-09-26",
+          "player": "Bo Nix",
+          "stat": "Passing Yards",
+          "line": 212.5,
+          "side": "Less",
+          "final": 186
+        },
+        {
+          "date": "2026-09-23",
+          "player": "Drake London",
+          "stat": "Receiving Yards",
+          "line": 65.5,
+          "side": "More",
+          "final": 194
+        },
+        {
+          "date": "2026-09-23",
+          "player": "Jordan Love",
+          "stat": "Passing Yards",
+          "line": 227.5,
+          "side": "More",
+          "final": 312
+        },
+        {
+          "date": "2026-09-23",
+          "player": "Christian Watson",
+          "stat": "Receiving Yards",
+          "line": 68.5,
+          "side": "More",
+          "final": 96
+        },
+        {
+          "date": "2026-09-21",
+          "player": "Davante Adams",
+          "stat": "Receiving Yards",
+          "line": 59.5,
+          "side": "More",
+          "final": 195
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Cooper Rush",
+          "stat": "Passing Yards",
+          "line": 182.5,
+          "side": "Less",
+          "final": 86
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Aaron Jones Sr.",
+          "stat": "Rushing Yards",
+          "line": 56.5,
+          "side": "More",
+          "final": 105
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Kenneth Walker III",
+          "stat": "Rushing Yards",
+          "line": 81.5,
+          "side": "More",
+          "final": 117
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Rashee Rice",
+          "stat": "Receiving Yards",
+          "line": 51.5,
+          "side": "More",
+          "final": 83
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Josh Downs",
+          "stat": "Receiving Yards",
+          "line": 41.5,
+          "side": "More",
+          "final": 72
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Chase Brown",
+          "stat": "Rushing Yards",
+          "line": 54.5,
+          "side": "More",
+          "final": 80
+        },
+        {
+          "date": "2026-09-20",
+          "player": "Jonathan Taylor",
+          "stat": "Rushing Yards",
+          "line": 84.5,
+          "side": "More",
+          "final": 92
+        }
+      ]
+    },
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-4",
+      "page": 4,
+      "date": "2026-09-20",
+      "date_from": "2026-09-09",
+      "title": "Cashed Legs · Page 4",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-4.png",
+      "summary": "12 cashed legs · Sep 9 – Sep 20, 2026",
+      "legs": [
+        {
+          "date": "2026-09-20",
+          "player": "Travis Kelce",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "More",
+          "final": 9
+        },
+        {
+          "date": "2026-09-19",
+          "player": "DeVonta Smith",
+          "stat": "Receiving Yards",
+          "line": 60.5,
+          "side": "More",
+          "final": 117
+        },
+        {
+          "date": "2026-09-19",
+          "player": "Cam Ward",
+          "stat": "Passing Yards",
+          "line": 187.5,
+          "side": "Less",
+          "final": 183
+        },
+        {
+          "date": "2026-09-13",
+          "player": "C.J. Stroud",
+          "stat": "Passing Yards",
+          "line": 221.5,
+          "side": "More",
+          "final": 274
+        },
+        {
+          "date": "2026-09-13",
+          "player": "Alec Pierce",
+          "stat": "Receiving Yards",
+          "line": 29.5,
+          "side": "More",
+          "final": 61
+        },
+        {
+          "date": "2026-09-13",
+          "player": "Tetairoa McMillan",
+          "stat": "Receiving Yards",
+          "line": 60.5,
+          "side": "More",
+          "final": 75
+        },
+        {
+          "date": "2026-09-13",
+          "player": "Jalen Hurts",
+          "stat": "Passing Yards",
+          "line": 215.5,
+          "side": "Less",
+          "final": 203
+        },
+        {
+          "date": "2026-09-13",
+          "player": "Luther Burden III",
+          "stat": "Receiving Yards",
+          "line": 57.5,
+          "side": "More",
+          "final": 63
+        },
+        {
+          "date": "2026-09-12",
+          "player": "Isaiah Likely",
+          "stat": "Receiving Yards",
+          "line": 35.5,
+          "side": "More",
+          "final": 78
+        },
+        {
+          "date": "2026-09-09",
+          "player": "Davante Adams",
+          "stat": "Receiving Yards",
+          "line": 52.5,
+          "side": "Less",
+          "final": 26
+        },
+        {
+          "date": "2026-09-09",
+          "player": "George Kittle",
+          "stat": "Receiving Yards",
+          "line": 36.5,
+          "side": "Less",
+          "final": 12
+        },
+        {
+          "date": "2026-09-09",
+          "player": "Christian McCaffrey",
+          "stat": "Rushing Yards",
+          "line": 59.5,
+          "side": "More",
+          "final": 68
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2026-09-14-mnf-den-kc",
+      "date": "2026-09-14",
+      "title": "MNF · DEN @ KC · Sep 14, 2026",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-09-14-mnf-den-kc.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Patrick Mahomes Passing Yards 225.5 Less (final 184) · Bo Nix Passing Yards 227.5 Less (final 131) · Kenneth Walker III Rushing Yards 60.5 More (final 173) · Jaylen Waddle Receiving Yards 54.5 Less (final 2)",
+      "legs": [
+        {
+          "player": "Patrick Mahomes",
+          "stat": "Passing Yards",
+          "line": "225.5",
+          "side": "Less",
+          "final": "184"
+        },
+        {
+          "player": "Bo Nix",
+          "stat": "Passing Yards",
+          "line": "227.5",
+          "side": "Less",
+          "final": "131"
+        },
+        {
+          "player": "Kenneth Walker III",
+          "stat": "Rushing Yards",
+          "line": "60.5",
+          "side": "More",
+          "final": "173"
+        },
+        {
+          "player": "Jaylen Waddle",
+          "stat": "Receiving Yards",
+          "line": "54.5",
+          "side": "Less",
+          "final": "2"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2026-09-13-sunday-slate-slip-3",
+      "date": "2026-09-13",
+      "title": "Sunday Slate · Slip 3 · Sep 13",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-09-13-sunday-slate-slip-3.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · C.J. Stroud Passing Yards 221.5 More (final 274) · Jalen Hurts Passing Yards 215.5 Less (final 203) · Luther Burden III Receiving Yards 57.5 More (final 63) · Tetairoa McMillan Receiving Yards 60.5 More (final 75)",
+      "legs": [
+        {
+          "player": "C.J. Stroud",
+          "stat": "Passing Yards",
+          "line": "221.5",
+          "side": "More",
+          "final": "274"
+        },
+        {
+          "player": "Jalen Hurts",
+          "stat": "Passing Yards",
+          "line": "215.5",
+          "side": "Less",
+          "final": "203"
+        },
+        {
+          "player": "Luther Burden III",
+          "stat": "Receiving Yards",
+          "line": "57.5",
+          "side": "More",
+          "final": "63"
+        },
+        {
+          "player": "Tetairoa McMillan",
+          "stat": "Receiving Yards",
+          "line": "60.5",
+          "side": "More",
+          "final": "75"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-12-14-sunday-lock-slip-6",
+      "date": "2025-12-14",
+      "title": "Sunday Lock Slip 6 · Dec 14, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-12-14-sunday-lock-slip-6.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Jaxson Dart Pass Yards 210.5 More (final 246) · Brock Purdy Pass Yards 241.5 More (final 295) · Cam Ward Pass Yards 198.5 Less (final 170) · Kenny Pickett Pass Yards 186.5 Less (final 64)",
+      "legs": [
+        {
+          "player": "Jaxson Dart",
+          "stat": "Pass Yards",
+          "line": "210.5",
+          "side": "More",
+          "final": "246"
+        },
+        {
+          "player": "Brock Purdy",
+          "stat": "Pass Yards",
+          "line": "241.5",
+          "side": "More",
+          "final": "295"
+        },
+        {
+          "player": "Cam Ward",
+          "stat": "Pass Yards",
+          "line": "198.5",
+          "side": "Less",
+          "final": "170"
+        },
+        {
+          "player": "Kenny Pickett",
+          "stat": "Pass Yards",
+          "line": "186.5",
+          "side": "Less",
+          "final": "64"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-12-14-sunday-lock-slip-4",
+      "date": "2025-12-14",
+      "title": "Sunday Lock Slip 4 · Dec 14, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-12-14-sunday-lock-slip-4.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Trevor Lawrence Pass Yards 218.5 More (final 330) · Jakobi Meyers Receiving Yards 53.5 More (final 71) · Jordan Love Pass Yards 223.5 More (final 276) · Amon-Ra St. Brown Receiving Yards 76.5 More (final 164)",
+      "legs": [
+        {
+          "player": "Trevor Lawrence",
+          "stat": "Pass Yards",
+          "line": "218.5",
+          "side": "More",
+          "final": "330"
+        },
+        {
+          "player": "Jakobi Meyers",
+          "stat": "Receiving Yards",
+          "line": "53.5",
+          "side": "More",
+          "final": "71"
+        },
+        {
+          "player": "Jordan Love",
+          "stat": "Pass Yards",
+          "line": "223.5",
+          "side": "More",
+          "final": "276"
+        },
+        {
+          "player": "Amon-Ra St. Brown",
+          "stat": "Receiving Yards",
+          "line": "76.5",
+          "side": "More",
+          "final": "164"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-12-11-tnf-lock-slip-4",
+      "date": "2025-12-11",
+      "title": "TNF Lock Slip 4 · Dec 11, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-12-11-tnf-lock-slip-4.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Bijan Robinson Receiving Yards 38.5 More (final 82) · Rachaad White Rush Yards 52.5 Less (final 20) · Kyle Pitts Receiving Yards 47.5 More (final 166) · Emeka Egbuka Receiving Yards 44.5 More (final 64)",
+      "legs": [
+        {
+          "player": "Bijan Robinson",
+          "stat": "Receiving Yards",
+          "line": "38.5",
+          "side": "More",
+          "final": "82"
+        },
+        {
+          "player": "Rachaad White",
+          "stat": "Rush Yards",
+          "line": "52.5",
+          "side": "Less",
+          "final": "20"
+        },
+        {
+          "player": "Kyle Pitts",
+          "stat": "Receiving Yards",
+          "line": "47.5",
+          "side": "More",
+          "final": "166"
+        },
+        {
+          "player": "Emeka Egbuka",
+          "stat": "Receiving Yards",
+          "line": "44.5",
+          "side": "More",
+          "final": "64"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-12-07-sunday-lock-slip-3",
+      "date": "2025-12-07",
+      "title": "Sunday Lock Slip 3 · Dec 7, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-12-07-sunday-lock-slip-3.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Justin Jefferson Receptions 5.5 Less (final 2) · Chris Rodriguez Jr. Rush Yards 38.5 More (final 52) · J.J. McCarthy Pass Yards 185.9 Less (final 163) · Jacoby Brissett Pass Yards 258.5 More (final 271)",
+      "legs": [
+        {
+          "player": "Justin Jefferson",
+          "stat": "Receptions",
+          "line": "5.5",
+          "side": "Less",
+          "final": "2"
+        },
+        {
+          "player": "Chris Rodriguez Jr.",
+          "stat": "Rush Yards",
+          "line": "38.5",
+          "side": "More",
+          "final": "52"
+        },
+        {
+          "player": "J.J. McCarthy",
+          "stat": "Pass Yards",
+          "line": "185.9",
+          "side": "Less",
+          "final": "163"
+        },
+        {
+          "player": "Jacoby Brissett",
+          "stat": "Pass Yards",
+          "line": "258.5",
+          "side": "More",
+          "final": "271"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-10-20-mnf-slip-6",
+      "date": "2025-10-20",
+      "title": "MNF Slip 6 · Oct 20, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-10-20-mnf-slip-6.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Jaxon Smith-Njigba Receiving Yards 87.5 More (final 123) · C.J. Stroud Pass Yards 225.5 More (final 229) · Jason Myers FG Made 1.5 More (final 2) · Dalton Schultz Receptions 4.5 More (final 9)",
+      "legs": [
+        {
+          "player": "Jaxon Smith-Njigba",
+          "stat": "Receiving Yards",
+          "line": "87.5",
+          "side": "More",
+          "final": "123"
+        },
+        {
+          "player": "C.J. Stroud",
+          "stat": "Pass Yards",
+          "line": "225.5",
+          "side": "More",
+          "final": "229"
+        },
+        {
+          "player": "Jason Myers",
+          "stat": "FG Made",
+          "line": "1.5",
+          "side": "More",
+          "final": "2"
+        },
+        {
+          "player": "Dalton Schultz",
+          "stat": "Receptions",
+          "line": "4.5",
+          "side": "More",
+          "final": "9"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-10-12-snf-slip-10",
+      "date": "2025-10-12",
+      "title": "SNF Slip #10 · Oct 12, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-10-12-snf-slip-10.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · David Montgomery Longest Rush 11.5 More (final 13) · Jared Goff Rush Yards 0.5 More (final 7) · Jameson Williams Receptions 2.5 More (final 6) · Marquise Brown Receptions 3.5 More (final 4)",
+      "legs": [
+        {
+          "player": "David Montgomery",
+          "stat": "Longest Rush",
+          "line": "11.5",
+          "side": "More",
+          "final": "13"
+        },
+        {
+          "player": "Jared Goff",
+          "stat": "Rush Yards",
+          "line": "0.5",
+          "side": "More",
+          "final": "7"
+        },
+        {
+          "player": "Jameson Williams",
+          "stat": "Receptions",
+          "line": "2.5",
+          "side": "More",
+          "final": "6"
+        },
+        {
+          "player": "Marquise Brown",
+          "stat": "Receptions",
+          "line": "3.5",
+          "side": "More",
+          "final": "4"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-10-05-snf-slip-1",
+      "date": "2025-10-05",
+      "title": "SNF Slip 1 · Oct 5, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-10-05-snf-slip-1.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Josh Allen Pass Yards 225.5 More (final 253) · Dalton Kincaid Receptions 3.5 More (final 6) · Stefon Diggs Receptions 4.5 More (final 10) · Andy Borregales Kicking Points 6.5 More (final 11)",
+      "legs": [
+        {
+          "player": "Josh Allen",
+          "stat": "Pass Yards",
+          "line": "225.5",
+          "side": "More",
+          "final": "253"
+        },
+        {
+          "player": "Dalton Kincaid",
+          "stat": "Receptions",
+          "line": "3.5",
+          "side": "More",
+          "final": "6"
+        },
+        {
+          "player": "Stefon Diggs",
+          "stat": "Receptions",
+          "line": "4.5",
+          "side": "More",
+          "final": "10"
+        },
+        {
+          "player": "Andy Borregales",
+          "stat": "Kicking Points",
+          "line": "6.5",
+          "side": "More",
+          "final": "11"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-09-25-tnf-slip",
+      "date": "2025-09-25",
+      "title": "TNF Slip · Sep 25, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-09-25-tnf-slip.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Jaxon Smith-Njigba Receiving Yards 58.5 More (final 79) · Trey McBride Receptions 6.5 More (final 7) · Kyler Murray Pass Yards 209.5 Less (final 200) · Sam Darnold Pass Yards 212.5 More (final 242)",
+      "legs": [
+        {
+          "player": "Jaxon Smith-Njigba",
+          "stat": "Receiving Yards",
+          "line": "58.5",
+          "side": "More",
+          "final": "79"
+        },
+        {
+          "player": "Trey McBride",
+          "stat": "Receptions",
+          "line": "6.5",
+          "side": "More",
+          "final": "7"
+        },
+        {
+          "player": "Kyler Murray",
+          "stat": "Pass Yards",
+          "line": "209.5",
+          "side": "Less",
+          "final": "200"
+        },
+        {
+          "player": "Sam Darnold",
+          "stat": "Pass Yards",
+          "line": "212.5",
+          "side": "More",
+          "final": "242"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "id": "2025-09-15-4-pick-slip",
+      "date": "2025-09-15",
+      "title": "4-Pick Slip · Sep 15, 2025",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2025-09-15-4-pick-slip.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Emeka Egbuka Receptions 3+ More (final 4) · Dalton Schultz Receptions 3+ More (final 3) · Justin Herbert Rush Yards 5+ More (final 31) · Jakobi Meyers Receptions 4+ More (final 6)",
+      "legs": [
+        {
+          "player": "Emeka Egbuka",
+          "stat": "Receptions",
+          "line": "3+",
+          "side": "More",
+          "final": "4"
+        },
+        {
+          "player": "Dalton Schultz",
+          "stat": "Receptions",
+          "line": "3+",
+          "side": "More",
+          "final": "3"
+        },
+        {
+          "player": "Justin Herbert",
+          "stat": "Rush Yards",
+          "line": "5+",
+          "side": "More",
+          "final": "31"
+        },
+        {
+          "player": "Jakobi Meyers",
+          "stat": "Receptions",
+          "line": "4+",
+          "side": "More",
+          "final": "6"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    "2026-10-11-sunday-card-8",
+    "2026-10-11-bonus-slip-1",
+    "2026-09-14-mnf-den-kc",
+    "2026-09-13-sunday-slate-slip-3",
+    "2025-12-14-sunday-lock-slip-6",
+    "2025-12-14-sunday-lock-slip-4",
+    "2025-12-11-tnf-lock-slip-4",
+    "2025-12-07-sunday-lock-slip-3",
+    "2025-10-20-mnf-slip-6",
+    "2025-10-12-snf-slip-10",
+    "2025-10-05-snf-slip-1",
+    "2025-09-25-tnf-slip",
+    "2025-09-15-4-pick-slip"
+  ],
+  "legs_pages": [
+    "cashed-legs-7",
+    "cashed-legs-6",
+    "cashed-legs-5",
+    "cashed-legs-1",
+    "cashed-legs-2",
+    "cashed-legs-3",
+    "cashed-legs-4"
+  ]
+}
