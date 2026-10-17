@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T18:40:05-05:00",
+  "updated_at": "2026-10-17T18:41:42-05:00",
   "page_size": 12,
   "counts": {
     "cards": 13,
@@ -112,7 +112,9 @@
           "side": "More",
           "final": 1
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "legs_page",
@@ -220,7 +222,9 @@
           "side": "Less",
           "final": 1
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "legs_page",
@@ -328,7 +332,9 @@
           "side": "Less",
           "final": 6
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "card",
@@ -367,7 +373,9 @@
           "side": "More",
           "final": 29
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -406,7 +414,9 @@
           "side": "More",
           "final": 22
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "legs_page",
@@ -514,7 +524,9 @@
           "side": "More",
           "final": 10
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "legs_page",
@@ -622,7 +634,9 @@
           "side": "More",
           "final": 88
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "legs_page",
@@ -730,7 +744,9 @@
           "side": "More",
           "final": 92
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "legs_page",
@@ -838,7 +854,9 @@
           "side": "More",
           "final": 68
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1852
     },
     {
       "type": "card",
@@ -877,7 +895,9 @@
           "side": "Less",
           "final": "2"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -916,7 +936,9 @@
           "side": "More",
           "final": "75"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -955,7 +977,9 @@
           "side": "Less",
           "final": "64"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -994,7 +1018,9 @@
           "side": "More",
           "final": "164"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1033,7 +1059,9 @@
           "side": "More",
           "final": "64"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1072,7 +1100,9 @@
           "side": "More",
           "final": "271"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1111,7 +1141,9 @@
           "side": "More",
           "final": "9"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1150,7 +1182,9 @@
           "side": "More",
           "final": "4"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1189,7 +1223,9 @@
           "side": "More",
           "final": "11"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1228,7 +1264,9 @@
           "side": "More",
           "final": "242"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     },
     {
       "type": "card",
@@ -1267,7 +1305,9 @@
           "side": "More",
           "final": "6"
         }
-      ]
+      ],
+      "width": 1080,
+      "height": 1146
     }
   ],
   "cards": [
