@@ -11,14 +11,14 @@
   "prop_categories": 30,
   "trained_through": "2026 W5",
   "slate_date": "2026-10-18",
-  "lines_scanned": 5338,
-  "slate_games": 13,
-  "slate_markets": 33,
+  "lines_scanned": 9136,
+  "slate_games": 12,
+  "slate_markets": 74,
   "calib_under_n": 2492,
   "calib_under_stated_pct": 64.7,
   "calib_under_hit_pct": 65.4,
-  "day_start_date": "2026-10-17",
+  "day_start_date": "2026-10-18",
   "day_start_graded_props": 250082,
   "added_today": 0,
-  "updated_at": "2026-10-17T22:18:32-05:00"
+  "updated_at": "2026-10-18T05:15:41-05:00"
 }
