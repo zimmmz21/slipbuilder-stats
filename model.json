@@ -4,14 +4,14 @@
   "graded_props_2026": 2593,
   "graded_2026_by_first_source": {
     "dk_board": 2342,
-    "why_tags_2026": 161,
-    "ledger": 90
+    "why_tags_2026": 182,
+    "ledger": 69
   },
   "trained_lines": 67283,
   "prop_categories": 30,
   "trained_through": "2026 W5",
   "slate_date": "2026-10-18",
-  "lines_scanned": 7808,
+  "lines_scanned": 7810,
   "slate_games": 12,
   "slate_markets": 74,
   "calib_under_n": 2492,
@@ -20,5 +20,5 @@
   "day_start_date": "2026-10-18",
   "day_start_graded_props": 250082,
   "added_today": 21,
-  "updated_at": "2026-10-18T15:50:11-05:00"
+  "updated_at": "2026-10-18T16:17:28-05:00"
 }
