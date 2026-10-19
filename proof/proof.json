@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-10-17T18:41:42-05:00",
+  "updated_at": "2026-10-18T23:36:16-05:00",
   "page_size": 12,
   "counts": {
     "cards": 13,
-    "legs_pages": 7
+    "legs_pages": 8
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-8",
+      "page": 8,
+      "date": "2026-10-18",
+      "date_from": "2026-10-15",
+      "title": "Cashed Legs · Page 8",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-8.png",
+      "summary": "12 cashed legs · Oct 15 – Oct 18, 2026",
+      "legs": [
+        {
+          "date": "2026-10-18",
+          "player": "Nate Boerkircher",
+          "stat": "Longest Reception",
+          "line": 5.5,
+          "side": "More",
+          "final": 7
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Daniel Jones",
+          "stat": "Passing Attempts",
+          "line": 30.5,
+          "side": "More",
+          "final": 42
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Denzel Boston",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Mason Taylor",
+          "stat": "Receiving Yards",
+          "line": 13.5,
+          "side": "More",
+          "final": 33
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Isaiah Likely",
+          "stat": "Receiving Yards",
+          "line": 53.5,
+          "side": "More",
+          "final": 99
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Jerry Jeudy",
+          "stat": "Receiving Yards",
+          "line": 15.5,
+          "side": "More",
+          "final": 69
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Jaylen Warren",
+          "stat": "Longest Reception",
+          "line": 11.5,
+          "side": "More",
+          "final": 16
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Tyjae Spears",
+          "stat": "1st Half Total Receiving Yards",
+          "line": 4.5,
+          "side": "More",
+          "final": 7
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Bam Knight",
+          "stat": "Receptions",
+          "line": 0.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Kendrick Bourne",
+          "stat": "Longest Reception",
+          "line": 16.5,
+          "side": "Less",
+          "final": 15
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Ladd McConkey",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-15",
+          "player": "Bo Nix",
+          "stat": "Rushing Attempts",
+          "line": 4.5,
+          "side": "Less",
+          "final": 4
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-7",
@@ -1326,6 +1436,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-8",
     "cashed-legs-7",
     "cashed-legs-6",
     "cashed-legs-5",
