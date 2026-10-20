@@ -1,11 +1,203 @@
 {
-  "updated_at": "2026-10-18T23:36:16-05:00",
+  "updated_at": "2026-10-19T22:38:03-05:00",
   "page_size": 12,
   "counts": {
-    "cards": 13,
-    "legs_pages": 8
+    "cards": 15,
+    "legs_pages": 9
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-9",
+      "page": 9,
+      "date": "2026-10-19",
+      "date_from": "2026-10-18",
+      "title": "Cashed Legs · Page 9",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-9.png",
+      "summary": "12 cashed legs · Oct 18 – Oct 19, 2026",
+      "legs": [
+        {
+          "date": "2026-10-19",
+          "player": "Christian McCaffrey",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Drew Stevens",
+          "stat": "Extra Points Made",
+          "line": 1.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Eddy Pineiro",
+          "stat": "Extra Points Made",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Rachaad White",
+          "stat": "Rushing Attempts",
+          "line": 13.5,
+          "side": "Less",
+          "final": 7
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Brock Purdy",
+          "stat": "Passing Completions",
+          "line": 20.5,
+          "side": "More",
+          "final": 21
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Eddy Pineiro",
+          "stat": "Kicking Points",
+          "line": 8.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Patrick Mahomes",
+          "stat": "Pass and Rush Yards",
+          "line": 243.5,
+          "side": "More",
+          "final": 288
+        },
+        {
+          "date": "2026-10-18",
+          "player": "James Cook",
+          "stat": "Rush and Rec Yards",
+          "line": 106.5,
+          "side": "More",
+          "final": 153
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Josh Allen",
+          "stat": "Passing Yards",
+          "line": 240.5,
+          "side": "More",
+          "final": 255
+        },
+        {
+          "date": "2026-10-18",
+          "player": "Tre Tucker",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "More",
+          "final": 5
+        },
+        {
+          "date": "2026-10-18",
+          "player": "MarShawn Lloyd",
+          "stat": "Rushing Yards",
+          "line": 42.5,
+          "side": "Less",
+          "final": 10
+        },
+        {
+          "date": "2026-10-18",
+          "player": "George Pickens",
+          "stat": "Longest Reception",
+          "line": 24.5,
+          "side": "Less",
+          "final": 21
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
+    {
+      "type": "card",
+      "id": "2026-10-19-monday-card-2",
+      "date": "2026-10-19",
+      "title": "Monday Card 2 · Oct 19, 2026",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-10-19-monday-card-2.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Brock Purdy Passing Completions 20.5 More (final 21) · Eddy Pineiro Kicking Points 8.5 Less (final 5) · George Kittle Receptions 5.5 Less (final 5) · Chig Okonkwo Longest Reception 12.5 More (final 29)",
+      "legs": [
+        {
+          "player": "Brock Purdy",
+          "stat": "Passing Completions",
+          "line": 20.5,
+          "side": "More",
+          "final": 21
+        },
+        {
+          "player": "Eddy Pineiro",
+          "stat": "Kicking Points",
+          "line": 8.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "player": "George Kittle",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "player": "Chig Okonkwo",
+          "stat": "Longest Reception",
+          "line": 12.5,
+          "side": "More",
+          "final": 29
+        }
+      ],
+      "width": 1080,
+      "height": 1146
+    },
+    {
+      "type": "card",
+      "id": "2026-10-19-monday-card-1",
+      "date": "2026-10-19",
+      "title": "Monday Card 1 · Oct 19, 2026",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/cards/2026-10-19-monday-card-1.png",
+      "score": "4/4",
+      "summary": "CASHED 4/4 · Christian McCaffrey Anytime TD 0.5 More (final 2) · Drew Stevens Extra Points Made 1.5 More (final 2) · Eddy Pineiro Extra Points Made 3.5 Less (final 2) · Rachaad White Rushing Attempts 13.5 Less (final 7)",
+      "legs": [
+        {
+          "player": "Christian McCaffrey",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "player": "Drew Stevens",
+          "stat": "Extra Points Made",
+          "line": 1.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "player": "Eddy Pineiro",
+          "stat": "Extra Points Made",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "player": "Rachaad White",
+          "stat": "Rushing Attempts",
+          "line": 13.5,
+          "side": "Less",
+          "final": 7
+        }
+      ],
+      "width": 1080,
+      "height": 1146
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-8",
@@ -1421,6 +1613,8 @@
     }
   ],
   "cards": [
+    "2026-10-19-monday-card-2",
+    "2026-10-19-monday-card-1",
     "2026-10-11-sunday-card-8",
     "2026-10-11-bonus-slip-1",
     "2026-09-14-mnf-den-kc",
@@ -1436,6 +1630,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-9",
     "cashed-legs-8",
     "cashed-legs-7",
     "cashed-legs-6",
