@@ -1,0 +1,463 @@
+{
+ "v": 1,
+ "current_week": 7,
+ "weeks": {
+  "5": {
+   "week": 5,
+   "range": {
+    "start": "2026-10-06",
+    "end": "2026-10-12"
+   },
+   "games": [
+    {
+     "away": "TB",
+     "home": "DAL",
+     "kickoff": "2026-10-09T00:15:00Z"
+    },
+    {
+     "away": "PHI",
+     "home": "JAX",
+     "kickoff": "2026-10-11T13:30:00Z"
+    },
+    {
+     "away": "CHI",
+     "home": "GB",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "CIN",
+     "home": "MIA",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "CLE",
+     "home": "NYJ",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "HOU",
+     "home": "TEN",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "IND",
+     "home": "PIT",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "LV",
+     "home": "NE",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "MIN",
+     "home": "NO",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "NYG",
+     "home": "WSH",
+     "kickoff": "2026-10-11T17:00:00Z"
+    },
+    {
+     "away": "DEN",
+     "home": "LAC",
+     "kickoff": "2026-10-11T20:05:00Z"
+    },
+    {
+     "away": "DET",
+     "home": "ARI",
+     "kickoff": "2026-10-11T20:25:00Z"
+    },
+    {
+     "away": "SF",
+     "home": "SEA",
+     "kickoff": "2026-10-11T20:25:00Z"
+    },
+    {
+     "away": "BAL",
+     "home": "ATL",
+     "kickoff": "2026-10-12T00:20:00Z"
+    },
+    {
+     "away": "BUF",
+     "home": "LAR",
+     "kickoff": "2026-10-13T00:15:00Z"
+    }
+   ],
+   "potd": {
+    "player": "Pat Freiermuth",
+    "stat": "Receptions",
+    "line": "3.5",
+    "side": "Less",
+    "reason": "Rec ranged 2-5 last 4 games"
+   },
+   "potd_game": {
+    "game": "IND @ PIT",
+    "kickoff": "2026-10-11T12:00:00-05:00"
+   },
+   "potds": [
+    {
+     "player": "George Pickens",
+     "stat": "Receiving Yards",
+     "line": "62.5",
+     "side": "More",
+     "reason": "Last games: 28, 40, 82, 75",
+     "game": "TB  @  DAL",
+     "kickoff": null,
+     "date": "2026-10-08",
+     "result": "HIT",
+     "actual": "130"
+    },
+    {
+     "player": "Pat Freiermuth",
+     "stat": "Receptions",
+     "line": "3.5",
+     "side": "Less",
+     "reason": "Rec ranged 2-5 last 4 games",
+     "game": "IND @ PIT",
+     "kickoff": "2026-10-11T12:00:00-05:00",
+     "date": "2026-10-11",
+     "result": "MISS",
+     "actual": "5"
+    }
+   ],
+   "last_week": {
+    "week": 4,
+    "w": 6,
+    "l": 2,
+    "pct": 75.0,
+    "cards": 2,
+    "cashed_4of4": 0,
+    "potds": []
+   },
+   "season": {
+    "w": 44,
+    "l": 23,
+    "pct": 65.7
+   },
+   "so_far": {
+    "w": 38,
+    "l": 21
+   },
+   "writeup": "Week 5 runs Tue Oct 6 to Mon Oct 12 with 15 games (1 on Thursday, 13 on Sunday, 1 on Monday). It opens with TB at DAL on Thursday at 7:15 PM CT and closes with BUF at LAR on Monday night. The free picks were George Pickens over 62.5 receiving yards (hit, finished with 130); Pat Freiermuth under 3.5 receptions (missed, finished with 5). The week's official cards finished 38-21 on legs (64.4%). Last week (Week 4) the official cards went 6-2 on legs (75.0%) across 2 cards, and none of them cashed all four legs. Other standouts: Devaughn Vele over 3.5 receptions (6) and Alvin Kamara under 11.5 rushing attempts (7). That puts the season at 44-23 on legs (65.7%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section. Week by week on legs: Week 4 6-2.",
+   "writeup_words": 155,
+   "updated_at": "2026-10-21T15:21:27-05:00"
+  },
+  "6": {
+   "week": 6,
+   "range": {
+    "start": "2026-10-13",
+    "end": "2026-10-19"
+   },
+   "games": [
+    {
+     "away": "SEA",
+     "home": "DEN",
+     "kickoff": "2026-10-16T00:15:00Z"
+    },
+    {
+     "away": "HOU",
+     "home": "JAX",
+     "kickoff": "2026-10-18T13:30:00Z"
+    },
+    {
+     "away": "BAL",
+     "home": "CLE",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "CAR",
+     "home": "PHI",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "CHI",
+     "home": "ATL",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "NO",
+     "home": "NYG",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "NYJ",
+     "home": "NE",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "PIT",
+     "home": "TB",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "TEN",
+     "home": "IND",
+     "kickoff": "2026-10-18T17:00:00Z"
+    },
+    {
+     "away": "ARI",
+     "home": "LAR",
+     "kickoff": "2026-10-18T20:05:00Z"
+    },
+    {
+     "away": "BUF",
+     "home": "LV",
+     "kickoff": "2026-10-18T20:25:00Z"
+    },
+    {
+     "away": "LAC",
+     "home": "KC",
+     "kickoff": "2026-10-18T20:25:00Z"
+    },
+    {
+     "away": "DAL",
+     "home": "GB",
+     "kickoff": "2026-10-19T00:20:00Z"
+    },
+    {
+     "away": "WSH",
+     "home": "SF",
+     "kickoff": "2026-10-20T00:15:00Z"
+    }
+   ],
+   "potd": {
+    "player": "Christian McCaffrey",
+    "stat": "Anytime TD",
+    "line": "0.5",
+    "side": "More",
+    "reason": "Scored a TD in 4 of last 5 games"
+   },
+   "potd_game": {
+    "game": "WSH @ SF",
+    "kickoff": "2026-10-19T19:15:00-05:00"
+   },
+   "potds": [
+    {
+     "player": "Courtland Sutton",
+     "stat": "Receptions",
+     "line": "3.5",
+     "side": "Less",
+     "reason": "Under 3.5 rec in 5 of last 5, avg 2.2",
+     "game": "SEA @ DEN",
+     "kickoff": "2026-10-15T19:15:00-05:00",
+     "date": "2026-10-15",
+     "result": "HIT",
+     "actual": "2"
+    },
+    {
+     "player": "Quentin Johnston",
+     "stat": "Receiving Yards",
+     "line": "35.5",
+     "side": "Less",
+     "reason": "KC allows the 3rd-fewest WR receiving yards per game",
+     "game": "LAC @ KC",
+     "kickoff": "2026-10-18T15:25:00-05:00",
+     "date": "2026-10-18",
+     "result": "MISS",
+     "actual": "57"
+    },
+    {
+     "player": "Christian McCaffrey",
+     "stat": "Anytime TD",
+     "line": "0.5",
+     "side": "More",
+     "reason": "Scored a TD in 4 of last 5 games",
+     "game": "WSH @ SF",
+     "kickoff": "2026-10-19T19:15:00-05:00",
+     "date": "2026-10-19",
+     "result": "HIT",
+     "actual": "2"
+    }
+   ],
+   "last_week": {
+    "week": 5,
+    "w": 38,
+    "l": 21,
+    "pct": 64.4,
+    "cards": 15,
+    "cashed_4of4": 2,
+    "potds": [
+     {
+      "player": "George Pickens",
+      "stat": "Receiving Yards",
+      "line": "62.5",
+      "side": "More",
+      "reason": "Last games: 28, 40, 82, 75",
+      "game": "TB  @  DAL",
+      "kickoff": null,
+      "date": "2026-10-08",
+      "result": "HIT",
+      "actual": "130"
+     },
+     {
+      "player": "Pat Freiermuth",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Rec ranged 2-5 last 4 games",
+      "game": "IND @ PIT",
+      "kickoff": "2026-10-11T12:00:00-05:00",
+      "date": "2026-10-11",
+      "result": "MISS",
+      "actual": "5"
+     }
+    ]
+   },
+   "season": {
+    "w": 73,
+    "l": 49,
+    "pct": 59.8
+   },
+   "so_far": {
+    "w": 29,
+    "l": 26
+   },
+   "writeup": "Week 6 runs Tue Oct 13 to Mon Oct 19 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with SEA at DEN on Thursday at 7:15 PM CT and closes with WSH at SF on Monday night. The free picks were Courtland Sutton under 3.5 receptions (hit, finished with 2); Quentin Johnston under 35.5 receiving yards (missed, finished with 57); Christian McCaffrey to score a touchdown (hit, he found the end zone). The week's official cards finished 29-26 on legs (52.7%). Last week (Week 5) the official cards went 38-21 on legs (64.4%) across 15 cards, and 2 of them cashed all four legs. The free picks went 1-1: George Pickens over 62.5 receiving yards (hit, finished with 130); Pat Freiermuth under 3.5 receptions (missed, finished with 5). Other standouts: Gunnar Helm under 2.5 receptions (0) and Roman Wilson under 3.5 receptions (0). That puts the season at 73-49 on legs (59.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 182,
+   "updated_at": "2026-10-21T15:21:27-05:00"
+  },
+  "7": {
+   "week": 7,
+   "range": {
+    "start": "2026-10-20",
+    "end": "2026-10-26"
+   },
+   "games": [
+    {
+     "away": "NE",
+     "home": "CHI",
+     "kickoff": "2026-10-23T00:15:00Z"
+    },
+    {
+     "away": "PIT",
+     "home": "NO",
+     "kickoff": "2026-10-25T13:30:00Z"
+    },
+    {
+     "away": "CIN",
+     "home": "BAL",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "CLE",
+     "home": "TEN",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "IND",
+     "home": "MIN",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "MIA",
+     "home": "NYJ",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "NYG",
+     "home": "HOU",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "SF",
+     "home": "ATL",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "TB",
+     "home": "CAR",
+     "kickoff": "2026-10-25T17:00:00Z"
+    },
+    {
+     "away": "DEN",
+     "home": "ARI",
+     "kickoff": "2026-10-25T20:05:00Z"
+    },
+    {
+     "away": "GB",
+     "home": "DET",
+     "kickoff": "2026-10-25T20:25:00Z"
+    },
+    {
+     "away": "LAR",
+     "home": "LV",
+     "kickoff": "2026-10-25T20:25:00Z"
+    },
+    {
+     "away": "KC",
+     "home": "SEA",
+     "kickoff": "2026-10-26T00:20:00Z"
+    },
+    {
+     "away": "DAL",
+     "home": "PHI",
+     "kickoff": "2026-10-27T00:15:00Z"
+    }
+   ],
+   "potd": null,
+   "potd_game": null,
+   "potds": [],
+   "last_week": {
+    "week": 6,
+    "w": 29,
+    "l": 26,
+    "pct": 52.7,
+    "cards": 14,
+    "cashed_4of4": 2,
+    "potds": [
+     {
+      "player": "Courtland Sutton",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 rec in 5 of last 5, avg 2.2",
+      "game": "SEA @ DEN",
+      "kickoff": "2026-10-15T19:15:00-05:00",
+      "date": "2026-10-15",
+      "result": "HIT",
+      "actual": "2"
+     },
+     {
+      "player": "Quentin Johnston",
+      "stat": "Receiving Yards",
+      "line": "35.5",
+      "side": "Less",
+      "reason": "KC allows the 3rd-fewest WR receiving yards per game",
+      "game": "LAC @ KC",
+      "kickoff": "2026-10-18T15:25:00-05:00",
+      "date": "2026-10-18",
+      "result": "MISS",
+      "actual": "57"
+     },
+     {
+      "player": "Christian McCaffrey",
+      "stat": "Anytime TD",
+      "line": "0.5",
+      "side": "More",
+      "reason": "Scored a TD in 4 of last 5 games",
+      "game": "WSH @ SF",
+      "kickoff": "2026-10-19T19:15:00-05:00",
+      "date": "2026-10-19",
+      "result": "HIT",
+      "actual": "2"
+     }
+    ]
+   },
+   "season": {
+    "w": 73,
+    "l": 49,
+    "pct": 59.8
+   },
+   "so_far": {
+    "w": 0,
+    "l": 0
+   },
+   "writeup": "Week 7 runs Tue Oct 20 to Mon Oct 26 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with NE at CHI on Thursday at 7:15 PM CT and closes with DAL at PHI on Monday night. The free pick posts on game-day mornings once the official cards are out, starting with the first game of the week. Last week (Week 6) the official cards went 29-26 on legs (52.7%) across 14 cards, and 2 of them cashed all four legs. The free picks went 2-1: Courtland Sutton under 3.5 receptions (hit, finished with 2); Quentin Johnston under 35.5 receiving yards (missed, finished with 57); Christian McCaffrey to score a touchdown (hit, he found the end zone). Other standouts: Jerry Jeudy over 15.5 receiving yards (69) and Bam Knight over 0.5 receptions (2). That puts the season at 73-49 on legs (59.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 172,
+   "updated_at": "2026-10-21T15:21:27-05:00"
+  }
+ },
+ "updated_at": "2026-10-21T15:21:27-05:00"
+}
