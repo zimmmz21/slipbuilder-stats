@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-10-19T22:38:03-05:00",
+  "updated_at": "2026-10-25T15:05:02-05:00",
   "page_size": 12,
   "counts": {
     "cards": 15,
-    "legs_pages": 9
+    "legs_pages": 10
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-10",
+      "page": 10,
+      "date": "2026-10-25",
+      "date_from": "2026-10-19",
+      "title": "Cashed Legs · Page 10",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-10.png",
+      "summary": "12 cashed legs · Oct 19 – Oct 25, 2026",
+      "legs": [
+        {
+          "date": "2026-10-25",
+          "player": "Devaughn Vele",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "More",
+          "final": 5
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Tyler Shough",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Pat Freiermuth",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Laquon Treadwell",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Jordan Addison",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Zay Flowers",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "More",
+          "final": 8
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Rashod Bateman",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "More",
+          "final": 2
+        },
+        {
+          "date": "2026-10-22",
+          "player": "Colston Loveland",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "More",
+          "final": 7
+        },
+        {
+          "date": "2026-10-22",
+          "player": "DeMario Douglas",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-22",
+          "player": "D'Andre Swift",
+          "stat": "Receptions",
+          "line": 2.5,
+          "side": "More",
+          "final": 4
+        },
+        {
+          "date": "2026-10-19",
+          "player": "George Kittle",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-10-19",
+          "player": "Chig Okonkwo",
+          "stat": "Longest Reception",
+          "line": 12.5,
+          "side": "More",
+          "final": 29
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-9",
@@ -1630,6 +1740,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-10",
     "cashed-legs-9",
     "cashed-legs-8",
     "cashed-legs-7",
