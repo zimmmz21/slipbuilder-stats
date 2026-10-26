@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-10-25T18:38:05-05:00",
+  "updated_at": "2026-10-25T22:23:03-05:00",
   "page_size": 12,
   "counts": {
     "cards": 16,
-    "legs_pages": 10
+    "legs_pages": 11
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-11",
+      "page": 11,
+      "date": "2026-10-25",
+      "date_from": "2026-10-25",
+      "title": "Cashed Legs · Page 11",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-11.png",
+      "summary": "12 cashed legs · Oct 25, 2026",
+      "legs": [
+        {
+          "date": "2026-10-25",
+          "player": "Malachi Fields",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "More",
+          "final": 4
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Darnell Mooney",
+          "stat": "Receiving Yards",
+          "line": 16.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-10-25",
+          "player": "T.J. Hockenson",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Courtland Sutton",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Bam Knight",
+          "stat": "Receiving Yards",
+          "line": 4.5,
+          "side": "More",
+          "final": 15
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Tyler Allgeier",
+          "stat": "Rushing Attempts",
+          "line": 9.5,
+          "side": "Less",
+          "final": 8
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Trey McBride",
+          "stat": "Receptions",
+          "line": 6.5,
+          "side": "More",
+          "final": 10
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Jahmyr Gibbs",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "More",
+          "final": 5
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Jameson Williams",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "More",
+          "final": 5
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Ashton Jeanty",
+          "stat": "Rushing Yards",
+          "line": 54.5,
+          "side": "Less",
+          "final": 15
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Jordan Love",
+          "stat": "Rushing Yards",
+          "line": 6.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Noah Gray",
+          "stat": "Receptions",
+          "line": 1.5,
+          "side": "More",
+          "final": 3
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-10",
@@ -1782,6 +1892,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-11",
     "cashed-legs-10",
     "cashed-legs-9",
     "cashed-legs-8",
