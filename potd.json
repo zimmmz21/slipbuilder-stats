@@ -416,7 +416,9 @@
      "reason": "Under 3.5 in 5 of last 5, avg 2.2; ARI allows T-2nd-fewest WR catches; DEN runs 57 plays per game,",
      "game": "DEN @ ARI",
      "kickoff": "2026-10-25T15:05:00-05:00",
-     "date": "2026-10-25"
+     "date": "2026-10-25",
+     "result": "HIT",
+     "actual": "3"
     }
    ],
    "last_week": {
@@ -471,13 +473,13 @@
     "pct": 59.8
    },
    "so_far": {
-    "w": 6,
-    "l": 1
+    "w": 25,
+    "l": 22
    },
-   "writeup": "Week 7 runs Tue Oct 20 to Mon Oct 26 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with NE at CHI on Thursday at 7:15 PM CT and closes with DAL at PHI on Monday night. The free pick for this week is Courtland Sutton under 3.5 receptions in DEN @ ARI. The reason in one line: Under 3.5 in 5 of last 5, avg 2.2; ARI allows T-2nd-fewest WR catches; DEN runs 57 plays per game,. So far this week the official cards are 6-1 on legs. Last week (Week 6) the official cards went 29-26 on legs (52.7%) across 14 cards, and 2 of them cashed all four legs. The free picks went 2-1: Courtland Sutton under 3.5 receptions (hit, finished with 2); Quentin Johnston under 35.5 receiving yards (missed, finished with 57); Christian McCaffrey to score a touchdown (hit, he found the end zone). Other standouts: Jerry Jeudy over 15.5 receiving yards (69) and Bam Knight over 0.5 receptions (2). That puts the season at 73-49 on legs (59.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup": "Week 7 runs Tue Oct 20 to Mon Oct 26 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with NE at CHI on Thursday at 7:15 PM CT and closes with DAL at PHI on Monday night. The free pick for this week is Courtland Sutton under 3.5 receptions in DEN @ ARI. The reason in one line: Under 3.5 in 5 of last 5, avg 2.2; ARI allows T-2nd-fewest WR catches; DEN runs 57 plays per game,. So far this week the official cards are 25-22 on legs. Last week (Week 6) the official cards went 29-26 on legs (52.7%) across 14 cards, and 2 of them cashed all four legs. The free picks went 2-1: Courtland Sutton under 3.5 receptions (hit, finished with 2); Quentin Johnston under 35.5 receiving yards (missed, finished with 57); Christian McCaffrey to score a touchdown (hit, he found the end zone). Other standouts: Jerry Jeudy over 15.5 receiving yards (69) and Bam Knight over 0.5 receptions (2). That puts the season at 73-49 on legs (59.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
    "writeup_words": 203,
-   "updated_at": "2026-10-25T12:25:01-05:00"
+   "updated_at": "2026-10-26T08:26:12-05:00"
   }
  },
- "updated_at": "2026-10-25T12:25:01-05:00"
+ "updated_at": "2026-10-26T08:26:12-05:00"
 }
