@@ -570,9 +570,29 @@
      "kickoff": "2026-11-03T01:15:00Z"
     }
    ],
-   "potd": null,
-   "potd_game": null,
-   "potds": [],
+   "potd": {
+    "player": "Jordan Love",
+    "stat": "Passing TDs",
+    "line": "1.5",
+    "side": "More",
+    "reason": "Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5"
+   },
+   "potd_game": {
+    "game": "CAR @ GB",
+    "kickoff": "2026-10-29T19:15:00-05:00"
+   },
+   "potds": [
+    {
+     "player": "Jordan Love",
+     "stat": "Passing TDs",
+     "line": "1.5",
+     "side": "More",
+     "reason": "Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5",
+     "game": "CAR @ GB",
+     "kickoff": "2026-10-29T19:15:00-05:00",
+     "date": "2026-10-29"
+    }
+   ],
    "last_week": {
     "week": 7,
     "w": 26,
@@ -616,10 +636,10 @@
     "w": 0,
     "l": 0
    },
-   "writeup": "Week 8 runs Tue Oct 27 to Mon Nov 2 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with CAR at GB on Thursday at 7:15 PM CT and closes with CHI at SEA on Monday night. The free pick posts on game-day mornings once the official cards are out, starting with the first game of the week. Last week (Week 7) the official cards went 26-25 on legs (51.0%) across 13 cards, and 1 of them cashed all four legs. The free picks went 1-1: Courtland Sutton under 3.5 receptions (hit, finished with 3); Makai Lemon under 4.5 receptions (missed, finished with 7). Other standouts: Bam Knight over 4.5 receiving yards (15) and Malachi Fields over 1.5 receptions (4). That puts the season at 99-74 on legs (57.2%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
-   "writeup_words": 159,
-   "updated_at": "2026-10-27T09:31:21-05:00"
+   "writeup": "Week 8 runs Tue Oct 27 to Mon Nov 2 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with CAR at GB on Thursday at 7:15 PM CT and closes with CHI at SEA on Monday night. The free pick for this week is Jordan Love over 1.5 passing tds in CAR @ GB. The reason in one line: Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5. Last week (Week 7) the official cards went 26-25 on legs (51.0%) across 13 cards, and 1 of them cashed all four legs. The free picks went 1-1: Courtland Sutton under 3.5 receptions (hit, finished with 3); Makai Lemon under 4.5 receptions (missed, finished with 7). Other standouts: Bam Knight over 4.5 receiving yards (15) and Malachi Fields over 1.5 receptions (4). That puts the season at 99-74 on legs (57.2%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 177,
+   "updated_at": "2026-10-29T10:25:01-05:00"
   }
  },
- "updated_at": "2026-10-27T09:31:21-05:00"
+ "updated_at": "2026-10-29T10:25:01-05:00"
 }
