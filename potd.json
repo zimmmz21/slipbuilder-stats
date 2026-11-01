@@ -571,15 +571,15 @@
     }
    ],
    "potd": {
-    "player": "Jordan Love",
-    "stat": "Passing TDs",
-    "line": "1.5",
-    "side": "More",
-    "reason": "Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5"
+    "player": "Patrick Mahomes",
+    "stat": "Rushing Attempts",
+    "line": "3.5",
+    "side": "Less",
+    "reason": "Under 3.5 in 4 of last 5, avg 2.4"
    },
    "potd_game": {
-    "game": "CAR @ GB",
-    "kickoff": "2026-10-29T19:15:00-05:00"
+    "game": "KC @ DEN",
+    "kickoff": "2026-11-01T15:25:00-06:00"
    },
    "potds": [
     {
@@ -590,7 +590,19 @@
      "reason": "Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5",
      "game": "CAR @ GB",
      "kickoff": "2026-10-29T19:15:00-05:00",
-     "date": "2026-10-29"
+     "date": "2026-10-29",
+     "result": "HIT",
+     "actual": "3"
+    },
+    {
+     "player": "Patrick Mahomes",
+     "stat": "Rushing Attempts",
+     "line": "3.5",
+     "side": "Less",
+     "reason": "Under 3.5 in 4 of last 5, avg 2.4",
+     "game": "KC @ DEN",
+     "kickoff": "2026-11-01T15:25:00-06:00",
+     "date": "2026-11-01"
     }
    ],
    "last_week": {
@@ -633,13 +645,13 @@
     "pct": 57.2
    },
    "so_far": {
-    "w": 0,
+    "w": 4,
     "l": 0
    },
-   "writeup": "Week 8 runs Tue Oct 27 to Mon Nov 2 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with CAR at GB on Thursday at 7:15 PM CT and closes with CHI at SEA on Monday night. The free pick for this week is Jordan Love over 1.5 passing tds in CAR @ GB. The reason in one line: Over 1.5 in 4 of last 5, avg 1.8; total up 45.5 to 47.5, GB implied 25.5. Last week (Week 7) the official cards went 26-25 on legs (51.0%) across 13 cards, and 1 of them cashed all four legs. The free picks went 1-1: Courtland Sutton under 3.5 receptions (hit, finished with 3); Makai Lemon under 4.5 receptions (missed, finished with 7). Other standouts: Bam Knight over 4.5 receiving yards (15) and Malachi Fields over 1.5 receptions (4). That puts the season at 99-74 on legs (57.2%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
-   "writeup_words": 177,
-   "updated_at": "2026-10-29T10:25:01-05:00"
+   "writeup": "Week 8 runs Tue Oct 27 to Mon Nov 2 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with CAR at GB on Thursday at 7:15 PM CT and closes with CHI at SEA on Monday night. The free pick for this week is Patrick Mahomes under 3.5 rushing attempts in KC @ DEN. The reason in one line: Under 3.5 in 4 of last 5, avg 2.4. Earlier this week the free pick was Jordan Love over 1.5 passing tds (hit, finished with 3). So far this week the official cards are 4-0 on legs. Last week (Week 7) the official cards went 26-25 on legs (51.0%) across 13 cards, and 1 of them cashed all four legs. The free picks went 1-1: Courtland Sutton under 3.5 receptions (hit, finished with 3); Makai Lemon under 4.5 receptions (missed, finished with 7). Other standouts: Bam Knight over 4.5 receiving yards (15) and Malachi Fields over 1.5 receptions (4). That puts the season at 99-74 on legs (57.2%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 197,
+   "updated_at": "2026-11-01T08:25:01-06:00"
   }
  },
- "updated_at": "2026-10-29T10:25:01-05:00"
+ "updated_at": "2026-11-01T08:25:01-06:00"
 }
