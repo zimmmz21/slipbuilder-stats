@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-10-29T22:38:05-05:00",
+  "updated_at": "2026-11-01T18:53:04-06:00",
   "page_size": 12,
   "counts": {
     "cards": 17,
-    "legs_pages": 11
+    "legs_pages": 12
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-12",
+      "page": 12,
+      "date": "2026-11-01",
+      "date_from": "2026-10-25",
+      "title": "Cashed Legs · Page 12",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-12.png",
+      "summary": "12 cashed legs · Oct 25 – Nov 1, 2026",
+      "legs": [
+        {
+          "date": "2026-11-01",
+          "player": "Bijan Robinson",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Samaje Perine",
+          "stat": "Rushing Attempts",
+          "line": 6.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Lamar Jackson",
+          "stat": "Rushing Attempts",
+          "line": 4.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Jordan Addison",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-29",
+          "player": "Jordan Love",
+          "stat": "Passing TDs",
+          "line": 1.5,
+          "side": "More",
+          "final": 3
+        },
+        {
+          "date": "2026-10-29",
+          "player": "Jalen Coker",
+          "stat": "Receiving Yards",
+          "line": 62.5,
+          "side": "Less",
+          "final": 36
+        },
+        {
+          "date": "2026-10-29",
+          "player": "MarShawn Lloyd",
+          "stat": "Rushing Yards",
+          "line": 17.5,
+          "side": "Less",
+          "final": 7
+        },
+        {
+          "date": "2026-10-29",
+          "player": "Bryce Young",
+          "stat": "Rushing Yards",
+          "line": 9.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-10-26",
+          "player": "Darius Cooper",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Travis Kelce",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Xavier Worthy",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-10-25",
+          "player": "Patrick Mahomes",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "card",
       "id": "2026-10-29-tnf-slip",
@@ -1934,6 +2044,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-12",
     "cashed-legs-11",
     "cashed-legs-10",
     "cashed-legs-9",
