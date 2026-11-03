@@ -1,13 +1,13 @@
 {
-  "graded_props": 257721,
+  "graded_props": 260242,
   "graded_props_2023_2025": 247510,
-  "graded_props_2026": 10211,
+  "graded_props_2026": 12732,
   "graded_2026_by_first_source": {
-    "dk_board": 10005,
+    "dk_board": 12549,
     "why_tags_2026": 165,
-    "ledger": 41
+    "ledger": 18
   },
-  "trained_lines": 74949,
+  "trained_lines": 77493,
   "prop_categories": 30,
   "trained_through": "2026 W8",
   "slate_date": "2026-11-02",
@@ -17,8 +17,8 @@
   "calib_under_n": 2492,
   "calib_under_stated_pct": 64.7,
   "calib_under_hit_pct": 65.4,
-  "day_start_date": "2026-11-02",
-  "day_start_graded_props": 257717,
-  "added_today": 4,
-  "updated_at": "2026-11-02T22:35:13-06:00"
+  "day_start_date": "2026-11-03",
+  "day_start_graded_props": 257721,
+  "added_today": 2521,
+  "updated_at": "2026-11-03T00:22:54-06:00"
 }
