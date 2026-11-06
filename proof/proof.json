@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-11-01T18:53:04-06:00",
+  "updated_at": "2026-11-06T15:05:53-06:00",
   "page_size": 12,
   "counts": {
     "cards": 17,
-    "legs_pages": 12
+    "legs_pages": 13
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-13",
+      "page": 13,
+      "date": "2026-11-05",
+      "date_from": "2026-11-01",
+      "title": "Cashed Legs · Page 13",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-13.png",
+      "summary": "12 cashed legs · Nov 1 – Nov 5, 2026",
+      "legs": [
+        {
+          "date": "2026-11-05",
+          "player": "Jake Moody",
+          "stat": "FG Made",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-05",
+          "player": "Derrick Henry",
+          "stat": "Rushing Attempts",
+          "line": 17.5,
+          "side": "Less",
+          "final": 17
+        },
+        {
+          "date": "2026-11-02",
+          "player": "Sam Darnold",
+          "stat": "Passing Attempts",
+          "line": 29.5,
+          "side": "More",
+          "final": 34
+        },
+        {
+          "date": "2026-11-02",
+          "player": "AJ Barner",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-01",
+          "player": "DJ Moore",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Mark Andrews",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Trevor Lawrence",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Geno Smith",
+          "stat": "Rushing Attempts",
+          "line": 2.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Patrick Mahomes",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Bo Nix",
+          "stat": "Rushing Attempts",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Hunter Henry",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-01",
+          "player": "Stefon Diggs",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-12",
@@ -2044,6 +2154,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-13",
     "cashed-legs-12",
     "cashed-legs-11",
     "cashed-legs-10",
