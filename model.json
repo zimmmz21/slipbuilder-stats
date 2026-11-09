@@ -1,11 +1,11 @@
 {
-  "graded_props": 260258,
+  "graded_props": 260261,
   "graded_props_2023_2025": 247510,
-  "graded_props_2026": 12748,
+  "graded_props_2026": 12751,
   "graded_2026_by_first_source": {
     "dk_board": 12549,
     "why_tags_2026": 165,
-    "ledger": 34
+    "ledger": 37
   },
   "trained_lines": 77493,
   "prop_categories": 30,
@@ -19,6 +19,6 @@
   "calib_under_hit_pct": 65.4,
   "day_start_date": "2026-11-08",
   "day_start_graded_props": 260246,
-  "added_today": 12,
-  "updated_at": "2026-11-08T18:32:34-06:00"
+  "added_today": 15,
+  "updated_at": "2026-11-08T18:35:08-06:00"
 }
