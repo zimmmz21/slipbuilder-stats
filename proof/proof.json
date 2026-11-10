@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-11-06T15:05:53-06:00",
+  "updated_at": "2026-11-10T15:05:02-06:00",
   "page_size": 12,
   "counts": {
     "cards": 17,
-    "legs_pages": 13
+    "legs_pages": 14
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-14",
+      "page": 14,
+      "date": "2026-11-09",
+      "date_from": "2026-11-08",
+      "title": "Cashed Legs · Page 14",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-14.png",
+      "summary": "12 cashed legs · Nov 8 – Nov 9, 2026",
+      "legs": [
+        {
+          "date": "2026-11-09",
+          "player": "Dalton Kincaid",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Michael Penix Jr.",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Bijan Robinson",
+          "stat": "Rushing Attempts",
+          "line": 19.5,
+          "side": "Less",
+          "final": 19
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Jahmyr Gibbs",
+          "stat": "Anytime TD",
+          "line": 0.5,
+          "side": "More",
+          "final": 1
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Josh Downs",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Ryan Flournoy",
+          "stat": "Receptions",
+          "line": 4.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Matthew Stafford",
+          "stat": "Rushing Attempts",
+          "line": 1.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Patrick Mahomes",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Rashee Rice",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Mason Taylor",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Nico Collins",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "Less",
+          "final": 4
+        },
+        {
+          "date": "2026-11-08",
+          "player": "Jadarian Price",
+          "stat": "Rushing Attempts",
+          "line": 13.5,
+          "side": "Less",
+          "final": 9
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-13",
@@ -2154,6 +2264,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-14",
     "cashed-legs-13",
     "cashed-legs-12",
     "cashed-legs-11",
