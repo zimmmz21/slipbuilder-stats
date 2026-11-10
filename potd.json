@@ -1,6 +1,6 @@
 {
  "v": 1,
- "current_week": 9,
+ "current_week": 10,
  "weeks": {
   "5": {
    "week": 5,
@@ -819,18 +819,156 @@
     ]
    },
    "season": {
-    "w": 117,
-    "l": 88,
-    "pct": 57.1
+    "w": 130,
+    "l": 95,
+    "pct": 57.8
    },
    "so_far": {
     "w": 13,
     "l": 7
    },
-   "writeup": "Week 9 runs Tue Nov 3 to Mon Nov 9 with 15 games (1 on Thursday, 13 on Sunday, 1 on Monday). It opens with JAX at BAL on Thursday at 7:15 PM CT and closes with BUF at MIN on Monday night. The free pick for this week is Dalton Kincaid under 3.5 receptions in BUF @ MIN. The reason in one line: Under 3.5 in 3 of last 5, avg 3; MIN allows the fewest TE catches per game. Earlier this week the free picks were Justice Hill under 4.5 rushing attempts (missed, finished with 9); Cade Otton under 3.5 receptions (missed, finished with 4). So far this week the official cards are 13-7 on legs. Last week (Week 8) the official cards went 18-14 on legs (56.2%) across 8 cards, and 1 of them cashed all four legs. The free picks went 2-0: Jordan Love over 1.5 passing tds (hit, finished with 3); Patrick Mahomes under 3.5 rushing attempts (hit, finished with 2). Other standouts: Bryce Young under 9.5 rushing yards (0) and Bijan Robinson under 4.5 receptions (0). That puts the season at 117-88 on legs (57.1%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
-   "writeup_words": 215,
-   "updated_at": "2026-11-09T08:34:33-06:00"
+   "writeup": "Week 9 runs Tue Nov 3 to Mon Nov 9 with 15 games (1 on Thursday, 13 on Sunday, 1 on Monday). It opens with JAX at BAL on Thursday at 7:15 PM CT and closes with BUF at MIN on Monday night. The free picks were Justice Hill under 4.5 rushing attempts (missed, finished with 9); Cade Otton under 3.5 receptions (missed, finished with 4); Dalton Kincaid under 3.5 receptions. The week's official cards finished 13-7 on legs (65.0%). Last week (Week 8) the official cards went 18-14 on legs (56.2%) across 8 cards, and 1 of them cashed all four legs. The free picks went 2-0: Jordan Love over 1.5 passing tds (hit, finished with 3); Patrick Mahomes under 3.5 rushing attempts (hit, finished with 2). Other standouts: Bryce Young under 9.5 rushing yards (0) and Bijan Robinson under 4.5 receptions (0). That puts the season at 130-95 on legs (57.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 177,
+   "updated_at": "2026-11-10T10:13:37-06:00"
+  },
+  "10": {
+   "week": 10,
+   "range": {
+    "start": "2026-11-10",
+    "end": "2026-11-16"
+   },
+   "games": [
+    {
+     "away": "WSH",
+     "home": "NYG",
+     "kickoff": "2026-11-13T01:15:00Z"
+    },
+    {
+     "away": "NE",
+     "home": "DET",
+     "kickoff": "2026-11-15T14:30:00Z"
+    },
+    {
+     "away": "BUF",
+     "home": "NYJ",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "CAR",
+     "home": "NO",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "HOU",
+     "home": "CLE",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "JAX",
+     "home": "TEN",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "KC",
+     "home": "ATL",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "MIA",
+     "home": "IND",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "MIN",
+     "home": "GB",
+     "kickoff": "2026-11-15T18:00:00Z"
+    },
+    {
+     "away": "LAR",
+     "home": "ARI",
+     "kickoff": "2026-11-15T21:05:00Z"
+    },
+    {
+     "away": "SEA",
+     "home": "LV",
+     "kickoff": "2026-11-15T21:05:00Z"
+    },
+    {
+     "away": "SF",
+     "home": "DAL",
+     "kickoff": "2026-11-15T21:25:00Z"
+    },
+    {
+     "away": "PIT",
+     "home": "CIN",
+     "kickoff": "2026-11-16T01:20:00Z"
+    },
+    {
+     "away": "LAC",
+     "home": "BAL",
+     "kickoff": "2026-11-17T01:15:00Z"
+    }
+   ],
+   "potd": null,
+   "potd_game": null,
+   "potds": [],
+   "last_week": {
+    "week": 9,
+    "w": 13,
+    "l": 7,
+    "pct": 65.0,
+    "cards": 6,
+    "cashed_4of4": 0,
+    "potds": [
+     {
+      "player": "Justice Hill",
+      "stat": "Rushing Attempts",
+      "line": "4.5",
+      "side": "Less",
+      "reason": "Under 4.5 in 5 of last 5, avg 2.2; JAX allows the 2nd-fewest RB carries per game",
+      "game": "JAX @ BAL",
+      "kickoff": "2026-11-05T19:15:00-06:00",
+      "date": "2026-11-05",
+      "result": "MISS",
+      "actual": "9"
+     },
+     {
+      "player": "Cade Otton",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 in 4 of last 5, avg 2.2; CHI allows the 6th-fewest TE catches per game",
+      "game": "TB @ CHI",
+      "kickoff": "2026-11-08T19:20:00-06:00",
+      "date": "2026-11-08",
+      "result": "MISS",
+      "actual": "4"
+     },
+     {
+      "player": "Dalton Kincaid",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 in 3 of last 5, avg 3; MIN allows the fewest TE catches per game",
+      "game": "BUF @ MIN",
+      "kickoff": "2026-11-09T19:15:00-06:00",
+      "date": "2026-11-09"
+     }
+    ]
+   },
+   "season": {
+    "w": 130,
+    "l": 95,
+    "pct": 57.8
+   },
+   "so_far": {
+    "w": 0,
+    "l": 0
+   },
+   "writeup": "Week 10 runs Tue Nov 10 to Mon Nov 16 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with WSH at NYG on Thursday at 7:15 PM CT and closes with LAC at BAL on Monday night. The free pick posts on game-day mornings once the official cards are out, starting with the first game of the week. Last week (Week 9) the official cards went 13-7 on legs (65.0%) across 6 cards, and none of them cashed all four legs. The free picks went 0-2: Justice Hill under 4.5 rushing attempts (missed, finished with 9); Cade Otton under 3.5 receptions (missed, finished with 4); Dalton Kincaid under 3.5 receptions. Other standouts: Mason Taylor under 3.5 receptions (1) and Ryan Flournoy under 4.5 receptions (2). That puts the season at 130-95 on legs (57.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and the graded cards are in the proof section.",
+   "writeup_words": 164,
+   "updated_at": "2026-11-10T10:13:37-06:00"
   }
  },
- "updated_at": "2026-11-09T08:34:33-06:00"
+ "updated_at": "2026-11-10T10:13:37-06:00"
 }
