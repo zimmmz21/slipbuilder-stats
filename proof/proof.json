@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-11-10T15:05:02-06:00",
+  "updated_at": "2026-11-15T19:49:35-06:00",
   "page_size": 12,
   "counts": {
     "cards": 17,
-    "legs_pages": 14
+    "legs_pages": 15
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-15",
+      "page": 15,
+      "date": "2026-11-15",
+      "date_from": "2026-11-09",
+      "title": "Cashed Legs · Page 15",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-15.png",
+      "summary": "12 cashed legs · Nov 9 – Nov 15, 2026",
+      "legs": [
+        {
+          "date": "2026-11-15",
+          "player": "Rhamondre Stevenson",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Will Reichard",
+          "stat": "FG Made",
+          "line": 1.5,
+          "side": "More",
+          "final": 3
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Quinshon Judkins",
+          "stat": "Rushing Attempts",
+          "line": 13.5,
+          "side": "Less",
+          "final": 10
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Ka'imi Fairbairn",
+          "stat": "Extra Points Made",
+          "line": 1.5,
+          "side": "More",
+          "final": 3
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Cam Ward",
+          "stat": "Interceptions Thrown",
+          "line": 0.5,
+          "side": "More",
+          "final": 1
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Jonathan Taylor",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Dalton Kincaid",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 2
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Rashee Rice",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Drake London",
+          "stat": "Receptions",
+          "line": 5.5,
+          "side": "More",
+          "final": 6
+        },
+        {
+          "date": "2026-11-15",
+          "player": "Bam Knight",
+          "stat": "Rushing Attempts",
+          "line": 8.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-11-09",
+          "player": "Josh Allen",
+          "stat": "Rushing Attempts",
+          "line": 7.5,
+          "side": "Less",
+          "final": 6
+        },
+        {
+          "date": "2026-11-09",
+          "player": "Tyler Bass",
+          "stat": "Kicking Points",
+          "line": 6.5,
+          "side": "More",
+          "final": 11
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-14",
@@ -2264,6 +2374,7 @@
     "2025-09-15-4-pick-slip"
   ],
   "legs_pages": [
+    "cashed-legs-15",
     "cashed-legs-14",
     "cashed-legs-13",
     "cashed-legs-12",
