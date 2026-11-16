@@ -11,9 +11,19 @@ https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/record.json
 - **Unit:** individual legs (player props), not slips. A leg is a win if graded HIT, a loss if MISS. VOIDs and ungraded legs are excluded.
 - **season_w / season_l:** all graded official Discord legs this season.
 - **legs_hit_pct:** season_w / (season_w + season_l) × 100, rounded to 1 decimal.
-- **cashed_legs:** number of legs that hit this season (= season_w).
+- **cashed_legs:** number of legs that hit this season (= season_w). Legacy key name; it is a per-leg count ("legs hit"), never a slip count.
 - **last_week_w / last_week_l:** graded legs from the last completed NFL week. NFL weeks run Tuesday to Monday (Week 1 starts Tue 2026-09-08). Uses the ledger's `week` field when present, otherwise the slip date.
 - **updated_at:** ISO 8601 timestamp in America/Chicago (CT offset) of the last change.
+
+## Per-pick only (2026-11-16)
+SlipBuilder publishes only the per-pick record: legs hit, W-L and hit %. No slip/card record is published in this repo: no
+cards_graded, cards_cashed, cashed_4of4, per-card results or 4/4 card images. Card grading stays internal in the ledger.
+- **results.json:** `summary` (legs_hit, legs_missed, legs_void, legs_hit_pct, free-pick W-L, by_week legs) + `legs` (every graded
+  official leg, hits and misses: date, nfl_week, player, team, game, stat, side, line, confidence, actual, grade, free_pick).
+  Producer: `build_results.py` / `publish_results.py`.
+- **potd.json:** weekly free pick + write-up; `last_week` = {week, w, l, pct, potds} (legs only). Producer: `publish_weekly_picks.py`.
+- **proof/proof.json:** "Legs Hit" pages only (ids/file names stay `cashed-legs-N` so existing image URLs keep working). Producer: `sync_proof.py`.
+The producer copies here are the versions that run on the SlipBuilder box (site-stats/, sched/, proof/).
 
 ## model.json (SlipScore section) — `update_model_stats.py`
 https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/model.json
