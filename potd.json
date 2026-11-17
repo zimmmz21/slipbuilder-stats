@@ -1,6 +1,6 @@
 {
  "v": 1,
- "current_week": 10,
+ "current_week": 11,
  "weeks": {
   "5": {
    "week": 5,
@@ -933,7 +933,9 @@
      "reason": "Under 10.5 in 3 of last 5, avg 10.4",
      "game": "LAC @ BAL",
      "kickoff": "2026-11-16T19:15:00-06:00",
-     "date": "2026-11-16"
+     "date": "2026-11-16",
+     "result": "MISS",
+     "actual": "22"
     }
    ],
    "last_week": {
@@ -981,18 +983,139 @@
     ]
    },
    "season": {
-    "w": 133,
-    "l": 96,
-    "pct": 58.1
+    "w": 151,
+    "l": 114,
+    "pct": 57.0
    },
    "so_far": {
-    "w": 16,
-    "l": 16
+    "w": 18,
+    "l": 18
    },
-   "writeup": "Week 10 runs Tue Nov 10 to Mon Nov 16 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with WSH at NYG on Thursday at 7:15 PM CT and closes with LAC at BAL on Monday night. The free pick for this week is Omarion Hampton under 10.5 rushing attempts in LAC @ BAL. The reason in one line: Under 10.5 in 3 of last 5, avg 10.4. Earlier this week the free pick was Matthew Stafford under 0.5 rushing yards (hit, finished with -2). So far this week the official picks are 16-16. Last week (Week 9) the official picks went 16-8 (66.7% of legs hit). The free picks went 1-2: Justice Hill under 4.5 rushing attempts (missed, finished with 9); Cade Otton under 3.5 receptions (missed, finished with 4); Dalton Kincaid under 3.5 receptions (hit, finished with 3). Other standouts: Mason Taylor under 3.5 receptions (1) and Tyler Bass over 6.5 kicking points (11). That puts the season at 133-96 on legs (58.1%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
-   "writeup_words": 195,
-   "updated_at": "2026-11-16T13:04:29-06:00"
+   "writeup": "Week 10 runs Tue Nov 10 to Mon Nov 16 with 14 games (1 on Thursday, 12 on Sunday, 1 on Monday). It opens with WSH at NYG on Thursday at 7:15 PM CT and closes with LAC at BAL on Monday night. The free picks were Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). The week's official picks finished 18-18 (50.0% of legs hit). Last week (Week 9) the official picks went 16-8 (66.7% of legs hit). The free picks went 1-2: Justice Hill under 4.5 rushing attempts (missed, finished with 9); Cade Otton under 3.5 receptions (missed, finished with 4); Dalton Kincaid under 3.5 receptions (hit, finished with 3). Other standouts: Mason Taylor under 3.5 receptions (1) and Tyler Bass over 6.5 kicking points (11). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 172,
+   "updated_at": "2026-11-17T10:20:59-06:00"
+  },
+  "11": {
+   "week": 11,
+   "range": {
+    "start": "2026-11-17",
+    "end": "2026-11-23"
+   },
+   "games": [
+    {
+     "away": "IND",
+     "home": "HOU",
+     "kickoff": "2026-11-20T01:15:00Z"
+    },
+    {
+     "away": "ARI",
+     "home": "KC",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "BAL",
+     "home": "CAR",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "MIA",
+     "home": "BUF",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "NO",
+     "home": "CHI",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "PIT",
+     "home": "PHI",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "TB",
+     "home": "DET",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "TEN",
+     "home": "DAL",
+     "kickoff": "2026-11-22T18:00:00Z"
+    },
+    {
+     "away": "NYJ",
+     "home": "LAC",
+     "kickoff": "2026-11-22T21:05:00Z"
+    },
+    {
+     "away": "JAX",
+     "home": "NYG",
+     "kickoff": "2026-11-22T21:25:00Z"
+    },
+    {
+     "away": "LV",
+     "home": "DEN",
+     "kickoff": "2026-11-22T21:25:00Z"
+    },
+    {
+     "away": "MIN",
+     "home": "SF",
+     "kickoff": "2026-11-23T01:20:00Z"
+    },
+    {
+     "away": "CIN",
+     "home": "WSH",
+     "kickoff": "2026-11-24T01:15:00Z"
+    }
+   ],
+   "potd": null,
+   "potd_game": null,
+   "potds": [],
+   "last_week": {
+    "week": 10,
+    "w": 18,
+    "l": 18,
+    "pct": 50.0,
+    "potds": [
+     {
+      "player": "Matthew Stafford",
+      "stat": "Rushing Yards",
+      "line": "0.5",
+      "side": "Less",
+      "reason": "Under 0.5 in 4 of last 5, avg -0.4",
+      "game": "LAR @ ARI",
+      "kickoff": "2026-11-15T15:05:00-06:00",
+      "date": "2026-11-15",
+      "result": "HIT",
+      "actual": "-2"
+     },
+     {
+      "player": "Omarion Hampton",
+      "stat": "Rushing Attempts",
+      "line": "10.5",
+      "side": "Less",
+      "reason": "Under 10.5 in 3 of last 5, avg 10.4",
+      "game": "LAC @ BAL",
+      "kickoff": "2026-11-16T19:15:00-06:00",
+      "date": "2026-11-16",
+      "result": "MISS",
+      "actual": "22"
+     }
+    ]
+   },
+   "season": {
+    "w": 151,
+    "l": 114,
+    "pct": 57.0
+   },
+   "so_far": {
+    "w": 0,
+    "l": 0
+   },
+   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick posts on game-day mornings once the official cards are out, starting with the first game of the week. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 153,
+   "updated_at": "2026-11-17T10:20:59-06:00"
   }
  },
- "updated_at": "2026-11-16T13:04:29-06:00"
+ "updated_at": "2026-11-17T10:20:59-06:00"
 }
