@@ -1068,9 +1068,29 @@
      "kickoff": "2026-11-24T01:15:00Z"
     }
    ],
-   "potd": null,
-   "potd_game": null,
-   "potds": [],
+   "potd": {
+    "player": "Dalton Schultz",
+    "stat": "Receptions",
+    "line": "3.5",
+    "side": "Less",
+    "reason": "Under 3.5 in 3 of last 5, avg 3; IND allows the 5th-fewest TE catches per game"
+   },
+   "potd_game": {
+    "game": "IND @ HOU",
+    "kickoff": "2026-11-19T19:15:00-06:00"
+   },
+   "potds": [
+    {
+     "player": "Dalton Schultz",
+     "stat": "Receptions",
+     "line": "3.5",
+     "side": "Less",
+     "reason": "Under 3.5 in 3 of last 5, avg 3; IND allows the 5th-fewest TE catches per game",
+     "game": "IND @ HOU",
+     "kickoff": "2026-11-19T19:15:00-06:00",
+     "date": "2026-11-19"
+    }
+   ],
    "last_week": {
     "week": 10,
     "w": 18,
@@ -1112,10 +1132,10 @@
     "w": 0,
     "l": 0
    },
-   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick posts on game-day mornings once the official cards are out, starting with the first game of the week. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
-   "writeup_words": 153,
-   "updated_at": "2026-11-17T10:20:59-06:00"
+   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick for this week is Dalton Schultz under 3.5 receptions in IND @ HOU. The reason in one line: Under 3.5 in 3 of last 5, avg 3; IND allows the 5th-fewest TE catches per game. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 170,
+   "updated_at": "2026-11-19T08:25:01-06:00"
   }
  },
- "updated_at": "2026-11-17T10:20:59-06:00"
+ "updated_at": "2026-11-19T08:25:01-06:00"
 }
