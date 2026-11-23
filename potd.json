@@ -1069,15 +1069,15 @@
     }
    ],
    "potd": {
-    "player": "Jaydn Ott",
-    "stat": "Rushing Attempts",
+    "player": "Antonio Williams",
+    "stat": "Receptions",
     "line": "3.5",
     "side": "Less",
-    "reason": "Under 3.5 in 2 of last 2, avg 1.5"
+    "reason": "Under 3.5 in 4 of last 5, avg 3.2"
    },
    "potd_game": {
-    "game": "ARI @ KC",
-    "kickoff": "2026-11-22T12:00:00-06:00"
+    "game": "CIN @ WSH",
+    "kickoff": "2026-11-23T19:15:00-06:00"
    },
    "potds": [
     {
@@ -1100,7 +1100,19 @@
      "reason": "Under 3.5 in 2 of last 2, avg 1.5",
      "game": "ARI @ KC",
      "kickoff": "2026-11-22T12:00:00-06:00",
-     "date": "2026-11-22"
+     "date": "2026-11-22",
+     "result": "MISS",
+     "actual": "5"
+    },
+    {
+     "player": "Antonio Williams",
+     "stat": "Receptions",
+     "line": "3.5",
+     "side": "Less",
+     "reason": "Under 3.5 in 4 of last 5, avg 3.2",
+     "game": "CIN @ WSH",
+     "kickoff": "2026-11-23T19:15:00-06:00",
+     "date": "2026-11-23"
     }
    ],
    "last_week": {
@@ -1141,13 +1153,13 @@
     "pct": 57.0
    },
    "so_far": {
-    "w": 3,
-    "l": 1
+    "w": 11,
+    "l": 6
    },
-   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick for this week is Jaydn Ott under 3.5 rushing attempts in ARI @ KC. The reason in one line: Under 3.5 in 2 of last 2, avg 1.5. Earlier this week the free pick was Dalton Schultz under 3.5 receptions (hit, finished with 1). So far this week the official picks are 3-1. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
-   "writeup_words": 188,
-   "updated_at": "2026-11-22T09:02:43-06:00"
+   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick for this week is Antonio Williams under 3.5 receptions in CIN @ WSH. The reason in one line: Under 3.5 in 4 of last 5, avg 3.2. Earlier this week the free picks were Dalton Schultz under 3.5 receptions (hit, finished with 1); Jaydn Ott under 3.5 rushing attempts (missed, finished with 5). So far this week the official picks are 11-6. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 197,
+   "updated_at": "2026-11-23T08:51:02-06:00"
   }
  },
- "updated_at": "2026-11-22T09:02:43-06:00"
+ "updated_at": "2026-11-23T08:51:02-06:00"
 }
