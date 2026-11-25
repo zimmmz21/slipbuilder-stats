@@ -1,10 +1,121 @@
 {
-  "updated_at": "2026-11-22T16:24:21-06:00",
+  "updated_at": "2026-11-24T20:00:33-06:00",
   "page_size": 12,
   "counts": {
-    "legs_pages": 16
+    "legs_pages": 17
   },
   "items": [
+    {
+      "type": "legs_page",
+      "id": "cashed-legs-17",
+      "page": 17,
+      "date": "2026-11-23",
+      "date_from": "2026-11-22",
+      "title_v": 2,
+      "title": "Legs Hit · Page 17",
+      "image": "https://raw.githubusercontent.com/zimmmz21/slipbuilder-stats/main/proof/legs/cashed-legs-17.png",
+      "summary": "12 legs hit · Nov 22 – Nov 23, 2026",
+      "legs": [
+        {
+          "date": "2026-11-23",
+          "player": "Drew Stevens",
+          "stat": "Extra Points Made",
+          "line": 2.5,
+          "side": "Less",
+          "final": 1
+        },
+        {
+          "date": "2026-11-23",
+          "player": "Jayden Daniels",
+          "stat": "Interceptions Thrown",
+          "line": 0.5,
+          "side": "Less",
+          "final": 0
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Joey Slye",
+          "stat": "Extra Points Made",
+          "line": 1.5,
+          "side": "More",
+          "final": 3
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Amon-Ra St. Brown",
+          "stat": "Receptions",
+          "line": 7.5,
+          "side": "Less",
+          "final": 5
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Sam LaPorta",
+          "stat": "Receptions",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Jacoby Brissett",
+          "stat": "Passing Attempts",
+          "line": 34.5,
+          "side": "More",
+          "final": 37
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Omarion Hampton",
+          "stat": "Rushing Attempts",
+          "line": 16.5,
+          "side": "Less",
+          "final": 14
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Trevor Lawrence",
+          "stat": "Rushing Attempts",
+          "line": 3.5,
+          "side": "Less",
+          "final": 3
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Matt Gay",
+          "stat": "Kicking Points",
+          "line": 4.5,
+          "side": "More",
+          "final": 6
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Christian McCaffrey",
+          "stat": "Rushing Attempts",
+          "line": 13.5,
+          "side": "Less",
+          "final": 12
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Justin Jefferson",
+          "stat": "Receptions",
+          "line": 7.5,
+          "side": "Less",
+          "final": 7
+        },
+        {
+          "date": "2026-11-22",
+          "player": "Jordan Mason",
+          "stat": "Rushing Attempts",
+          "line": 12.5,
+          "side": "Less",
+          "final": 11
+        }
+      ],
+      "width": 1080,
+      "height": 1852
+    },
     {
       "type": "legs_page",
       "id": "cashed-legs-16",
@@ -1783,6 +1894,7 @@
     }
   ],
   "legs_pages": [
+    "cashed-legs-17",
     "cashed-legs-16",
     "cashed-legs-15",
     "cashed-legs-14",
