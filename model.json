@@ -1,17 +1,17 @@
 {
-  "graded_props": 266980,
+  "graded_props": 266981,
   "graded_props_2023_2025": 247510,
-  "graded_props_2026": 19470,
+  "graded_props_2026": 19471,
   "graded_2026_by_first_source": {
     "dk_board": 19266,
     "why_tags_2026": 165,
-    "ledger": 39
+    "ledger": 40
   },
   "trained_lines": 118600,
   "prop_categories": 31,
   "trained_through": "2026 W10",
   "slate_date": "2026-11-26",
-  "lines_scanned": 2217,
+  "lines_scanned": 2220,
   "slate_games": 3,
   "slate_markets": 76,
   "calib_under_n": 2492,
@@ -19,6 +19,6 @@
   "calib_under_hit_pct": 65.4,
   "day_start_date": "2026-11-26",
   "day_start_graded_props": 266980,
-  "added_today": 0,
-  "updated_at": "2026-11-26T15:20:22-06:00"
+  "added_today": 1,
+  "updated_at": "2026-11-26T15:35:24-06:00"
 }
