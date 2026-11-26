@@ -1,6 +1,6 @@
 {
  "v": 1,
- "current_week": 11,
+ "current_week": 12,
  "weeks": {
   "5": {
    "week": 5,
@@ -1112,7 +1112,9 @@
      "reason": "Under 3.5 in 4 of last 5, avg 3.2",
      "game": "CIN @ WSH",
      "kickoff": "2026-11-23T19:15:00-06:00",
-     "date": "2026-11-23"
+     "date": "2026-11-23",
+     "result": "MISS",
+     "actual": "9"
     }
    ],
    "last_week": {
@@ -1148,18 +1150,186 @@
     ]
    },
    "season": {
-    "w": 151,
-    "l": 114,
-    "pct": 57.0
+    "w": 167,
+    "l": 122,
+    "pct": 57.8
    },
    "so_far": {
-    "w": 14,
-    "l": 6
+    "w": 16,
+    "l": 8
    },
-   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free pick for this week is Antonio Williams under 3.5 receptions in CIN @ WSH. The reason in one line: Under 3.5 in 4 of last 5, avg 3.2. Earlier this week the free picks were Dalton Schultz under 3.5 receptions (hit, finished with 1); Jaydn Ott under 3.5 rushing attempts (missed, finished with 5). So far this week the official picks are 14-6. Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 151-114 on legs (57.0%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
-   "writeup_words": 197,
-   "updated_at": "2026-11-23T12:25:01-06:00"
+   "writeup": "Week 11 runs Tue Nov 17 to Mon Nov 23 with 13 games (1 on Thursday, 11 on Sunday, 1 on Monday). It opens with IND at HOU on Thursday at 7:15 PM CT and closes with CIN at WSH on Monday night. The free picks were Dalton Schultz under 3.5 receptions (hit, finished with 1); Jaydn Ott under 3.5 rushing attempts (missed, finished with 5); Antonio Williams under 3.5 receptions (missed, finished with 9). The week's official picks finished 16-8 (66.7% of legs hit). Last week (Week 10) the official picks went 18-18 (50.0% of legs hit). The free picks went 1-1: Matthew Stafford under 0.5 rushing yards (hit, finished with -2); Omarion Hampton under 10.5 rushing attempts (missed, finished with 22). Other standouts: Will Reichard over 1.5 fg made (3) and Ka'imi Fairbairn over 1.5 extra points made (3). That puts the season at 167-122 on legs (57.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 174,
+   "updated_at": "2026-11-26T08:46:38-06:00"
+  },
+  "12": {
+   "week": 12,
+   "range": {
+    "start": "2026-11-24",
+    "end": "2026-11-30"
+   },
+   "games": [
+    {
+     "away": "GB",
+     "home": "LAR",
+     "kickoff": "2026-11-26T01:00:00Z"
+    },
+    {
+     "away": "CHI",
+     "home": "DET",
+     "kickoff": "2026-11-26T18:00:00Z"
+    },
+    {
+     "away": "PHI",
+     "home": "DAL",
+     "kickoff": "2026-11-26T21:30:00Z"
+    },
+    {
+     "away": "KC",
+     "home": "BUF",
+     "kickoff": "2026-11-27T01:20:00Z"
+    },
+    {
+     "away": "DEN",
+     "home": "PIT",
+     "kickoff": "2026-11-27T20:00:00Z"
+    },
+    {
+     "away": "ATL",
+     "home": "MIN",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "BAL",
+     "home": "HOU",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "NO",
+     "home": "CIN",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "NYG",
+     "home": "IND",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "NYJ",
+     "home": "MIA",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "TEN",
+     "home": "JAX",
+     "kickoff": "2026-11-29T18:00:00Z"
+    },
+    {
+     "away": "NE",
+     "home": "LAC",
+     "kickoff": "2026-11-29T21:05:00Z"
+    },
+    {
+     "away": "SEA",
+     "home": "SF",
+     "kickoff": "2026-11-29T21:25:00Z"
+    },
+    {
+     "away": "WSH",
+     "home": "ARI",
+     "kickoff": "2026-11-29T21:25:00Z"
+    },
+    {
+     "away": "LV",
+     "home": "CLE",
+     "kickoff": "2026-11-30T01:20:00Z"
+    },
+    {
+     "away": "CAR",
+     "home": "TB",
+     "kickoff": "2026-12-01T01:15:00Z"
+    }
+   ],
+   "potd": {
+    "player": "Emmett Johnson",
+    "stat": "Rushing Attempts",
+    "line": "19.5",
+    "side": "Less",
+    "reason": "Under 19.5 in 3 of last 5, avg 10.4; Without VanSumeren: 3.2 carries avg, 8/8 under 19.5; BUF allows the"
+   },
+   "potd_game": {
+    "game": "KC @ BUF",
+    "kickoff": "2026-11-26T19:20:00-06:00"
+   },
+   "potds": [
+    {
+     "player": "Emmett Johnson",
+     "stat": "Rushing Attempts",
+     "line": "19.5",
+     "side": "Less",
+     "reason": "Under 19.5 in 3 of last 5, avg 10.4; Without VanSumeren: 3.2 carries avg, 8/8 under 19.5; BUF allows the",
+     "game": "KC @ BUF",
+     "kickoff": "2026-11-26T19:20:00-06:00",
+     "date": "2026-11-26"
+    }
+   ],
+   "last_week": {
+    "week": 11,
+    "w": 16,
+    "l": 8,
+    "pct": 66.7,
+    "potds": [
+     {
+      "player": "Dalton Schultz",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 in 3 of last 5, avg 3; IND allows the 5th-fewest TE catches per game",
+      "game": "IND @ HOU",
+      "kickoff": "2026-11-19T19:15:00-06:00",
+      "date": "2026-11-19",
+      "result": "HIT",
+      "actual": "1"
+     },
+     {
+      "player": "Jaydn Ott",
+      "stat": "Rushing Attempts",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 in 2 of last 2, avg 1.5",
+      "game": "ARI @ KC",
+      "kickoff": "2026-11-22T12:00:00-06:00",
+      "date": "2026-11-22",
+      "result": "MISS",
+      "actual": "5"
+     },
+     {
+      "player": "Antonio Williams",
+      "stat": "Receptions",
+      "line": "3.5",
+      "side": "Less",
+      "reason": "Under 3.5 in 4 of last 5, avg 3.2",
+      "game": "CIN @ WSH",
+      "kickoff": "2026-11-23T19:15:00-06:00",
+      "date": "2026-11-23",
+      "result": "MISS",
+      "actual": "9"
+     }
+    ]
+   },
+   "season": {
+    "w": 167,
+    "l": 122,
+    "pct": 57.8
+   },
+   "so_far": {
+    "w": 0,
+    "l": 0
+   },
+   "writeup": "Week 12 runs Tue Nov 24 to Mon Nov 30 with 16 games (1 on Wednesday, 3 on Thursday, 1 on Friday, 10 on Sunday, 1 on Monday). It opens with GB at LAR on Wednesday at 7:00 PM CT and closes with CAR at TB on Monday night. The free pick for this week is Emmett Johnson under 19.5 rushing attempts in KC @ BUF. The reason in one line: Under 19.5 in 3 of last 5, avg 10.4; Without VanSumeren: 3.2 carries avg, 8/8 under 19.5; BUF allows the. Last week (Week 11) the official picks went 16-8 (66.7% of legs hit). The free picks went 1-2: Dalton Schultz under 3.5 receptions (hit, finished with 1); Jaydn Ott under 3.5 rushing attempts (missed, finished with 5); Antonio Williams under 3.5 receptions (missed, finished with 9). Other standouts: Joey Slye over 1.5 extra points made (3) and Tyler Warren under 5.5 receptions (1). That puts the season at 167-122 on legs (57.8%). Every official leg is graded after the final whistle and counted, wins and losses alike, and every graded pick is on the record page.",
+   "writeup_words": 187,
+   "updated_at": "2026-11-26T08:46:38-06:00"
   }
  },
- "updated_at": "2026-11-23T12:25:01-06:00"
+ "updated_at": "2026-11-26T08:46:38-06:00"
 }
