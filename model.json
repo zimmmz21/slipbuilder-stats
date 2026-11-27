@@ -10,15 +10,15 @@
   "trained_lines": 118600,
   "prop_categories": 31,
   "trained_through": "2026 W10",
-  "slate_date": "2026-11-26",
-  "lines_scanned": 2118,
-  "slate_games": 3,
-  "slate_markets": 76,
+  "slate_date": "2026-11-27",
+  "lines_scanned": 3742,
+  "slate_games": 12,
+  "slate_markets": 33,
   "calib_under_n": 2492,
   "calib_under_stated_pct": 64.7,
   "calib_under_hit_pct": 65.4,
-  "day_start_date": "2026-11-26",
-  "day_start_graded_props": 266980,
-  "added_today": 1,
-  "updated_at": "2026-11-26T17:05:17-06:00"
+  "day_start_date": "2026-11-27",
+  "day_start_graded_props": 266981,
+  "added_today": 0,
+  "updated_at": "2026-11-27T00:26:33-06:00"
 }
